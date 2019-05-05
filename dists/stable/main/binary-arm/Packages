@@ -1,3 +1,18 @@
+Package: heroku
+Architecture: arm
+Installed-Size: 8531
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 6.99.0
+Homepage: https://www.heroku.com
+Depends: nodejs
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku
+Filename: dists/stable/main/binary-arm/heroku_9.66.0_arm.deb
+Size: 5500120
+MD5Sum: dbdd69f52513f4ff10d89b1f12af86e6
+SHA1: 07e651ec92ff157592434fe8013c3dcee0267c88
+SHA256: 277371c530cd532bd497f0068d8231cde9aaf230a4a1d634c7a32a605164d715
+SHA512: 66a572dd4f35d588c3cb138171b291d69d15e36930671e079337cfdbe360fe900fafd5f53b9468c4eeacbbfb4e73bcfcb05b2661f65378900704760e9d7d32ff
+
 Package: shc
 Version: 4.0.1-2
 Architecture: arm
