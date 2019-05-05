@@ -4,7 +4,7 @@ Architecture: arm
 Maintainer: vanzdobz@gmail.com
 Description: Generic Shell Script Compiler
 Depends: clang
-Filename: dists/termux/extras/binary-arm/shc_4.0.1-2_arm.deb
+Filename: dists/stable/main/binary-arm/shc_4.0.1-2_arm.deb
 Size: 190160
 MD5Sum: 08c61d4d2408aa6c822e1c109f4dc8f8
 SHA1: 6796dccb9dfb0bf730cc86635a83b6c8f672583a

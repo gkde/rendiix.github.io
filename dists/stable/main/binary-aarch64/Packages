@@ -6,7 +6,7 @@ Version: 6.99.0
 Homepage: https://www.heroku.com
 Depends: nodejs
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku
-Filename: dists/termux/extras/binary-aarch64/heroku_9.66.0_aarch64.deb
+Filename: dists/stable/main/binary-aarch64/heroku_9.66.0_aarch64.deb
 Size: 5500124
 MD5Sum: 12d312112ae319231f19fd581b233128
 SHA1: aaabf4e495df8b50d186aaf834f620b5bd4cb264
@@ -19,7 +19,7 @@ Architecture: aarch64
 Maintainer: vanzdobz@gmail.com
 Description: Generic Shell Script Compiler
 Depends: clang
-Filename: dists/termux/extras/binary-aarch64/shc_4.0.1-2_aarch64.deb
+Filename: dists/stable/main/binary-aarch64/shc_4.0.1-2_aarch64.deb
 Size: 182100
 MD5Sum: 1651a338b32094f15f60bb3b995fd6e6
 SHA1: def509ebeea56321862ef8019104bf3e56dbc5f5

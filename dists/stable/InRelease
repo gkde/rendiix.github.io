@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: arm aarch64
+Description: stable repository
+Suite: stable
+Date: Sun, 05 May 2019 06:08:34 UTC
+MD5Sum:
+ be447f29860447a1307ed221c1ca5633 1239 main/binary-aarch64/Packages
+ a84c0cf0b47715d10b29adf12a7ddcef 816 main/binary-aarch64/Packages.xz
+ 2cbd0a5e0fce3058f43ff233be25fedd 508 main/binary-arm/Packages
+ 59df4e74a8ee6560042fc76b61d222cc 456 main/binary-arm/Packages.xz
+ 93d429e4449da5e9711a04fa2c0c90cf 1196514 main/Contents-aarch64
+ 8eee29a48c5f4623c45213673414c00f 85 main/Contents-arm
+ 64c5ede7ac80be03e248a8531ea84912 58428 main/Contents-aarch64.xz
+ 8c3c48ad47d79a2b82773a0861547332 108 main/Contents-arm.xz
+SHA1:
+ d9758392eafe8c0bf61cf6520781e2bdbc1c0db5 1239 main/binary-aarch64/Packages
+ 768f336303e0ea78a640f2ffbe53b671f7eab7ac 816 main/binary-aarch64/Packages.xz
+ 5adad72289da8c0f6ae0e749c8db7f01cf91458d 508 main/binary-arm/Packages
+ a817bacbe20ae5b2afb454465991a87c9e5e75a3 456 main/binary-arm/Packages.xz
+ 81dc3d6beaa8512dfe7dc6e2107954f4da69f775 1196514 main/Contents-aarch64
+ 2855b73f7621cf3027c0c725fc914897bb0eff38 85 main/Contents-arm
+ cd72020cba18176767f2760177b136e1a269fce8 58428 main/Contents-aarch64.xz
+ 83a6732a6f2768c6efe6610dadc2c658c59a0014 108 main/Contents-arm.xz
+SHA256:
+ 4c60cb189c6c2770780d5dcba88d73a4aebdb6f05fd92993619251a85e59b5f5 1239 main/binary-aarch64/Packages
+ 0891914d53be03aafae768ed94e85d3a6879ee4977ee1bc9187ff13e04370c8e 816 main/binary-aarch64/Packages.xz
+ 07a5bebb70687f0cfba87e3d8daa1696803a817ded885ad5157b7a1bd5e20c54 508 main/binary-arm/Packages
+ 965b02f0e38971a66b03b3a82930d37cb6f5c4ea4ddd50f00eed21538b83bdf5 456 main/binary-arm/Packages.xz
+ 4463c9dc87fe408f5b697b1667968274c8ca6065bf0e5f0f9c0739c087171c84 1196514 main/Contents-aarch64
+ 66ec192273e941795ac86bcd284460a47f838cdb3ac5580f8522f45bfe8efdae 85 main/Contents-arm
+ c9647970365392d3cc866bc87408f20f971e933cef3f47f562b2f8c605bf6da5 58428 main/Contents-aarch64.xz
+ fa76951c0b8379c30727024794e72aa0fae8764c727e8af040a3dae4a42d730f 108 main/Contents-arm.xz
+SHA512:
+ 448e5e3c6fbc557130f132282dadadc1125c3adb017ab68ff3274487b6258fc672e004120e7ed7a53d4c70427d077b2052a940c23f3a498edc11c83dabf8a1ff 1239 main/binary-aarch64/Packages
+ 8aa5f3aa5b861389913823db4c13c8de45ac25aa98cd2fa9e3665b8abaa857dac51949fe93436f65a349969c3ce6c7b069946cf6fea20c117e975e5bef0f2ab0 816 main/binary-aarch64/Packages.xz
+ 2af6181ea7fcc8ef3ddc6d9b37ac809f4e27939247d6874e469fefbe6d575195f7f10cf0743914470fee411f9fc64cb1d464ff83e13db4943b329f8822579572 508 main/binary-arm/Packages
+ 116d94b48c045f985821cb9860cab4e14be396e8dbb77165c2475123a4bf10a4aa0d027636f8042857048d830165b40d4d942d34c4ea273a767ea77f745c6c06 456 main/binary-arm/Packages.xz
+ b8bb0ece19c4e4fd2f2de976202355e42b9df836047ac4cfcf8ce506b0a758092b1dd5fa94e8185200d1a7ced04531ea9e3608771de042b4031bd2fae99892fa 1196514 main/Contents-aarch64
+ 583c9a260dbc90f1826cf14413c64f6623a132ff86b63b8f8203f369bbf384a2b3040eedcf461d0f6d52af19ab410491ce9ce4d5bb778d6857dc35cec7c11b49 85 main/Contents-arm
+ 0989b0551f11e95749bfacc2dbb467066fe2ebafae155d30375d329a0670df098dfd3e815baefa4daed18b282c7b16bc5c7dd7eccf8b9a39c553353a9f74ad78 58428 main/Contents-aarch64.xz
+ 4c5d99b0e79e20835852988fd1d9e0abd57f8bfdfe8aa48b90466d95f2dffe00cd1dfe414d79a2c7c90053643838cf8ece15a95c4107448baa135133ae8850d9 108 main/Contents-arm.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAlzOfeQACgkQc5qL4q9N
+bnvYUQgAtR6uN2k9labew+g/HFpwOGHpse0izqm3nId2prwPaMtrziqi/1fg359N
+Fqwoml1ko+Wd9NL/Dx+A0YxAtWMRjjPRubS41sp4bdplgV2tikdTgcMiATXTPaA7
+KUhe/bVWmCOR/T4pqgKaHE1GIe748w57RSNwRQMEv5a6VvzH25ARbCLw825W71Bq
+uq8P2EOsohfzsJwhJuD+Wt+t8UK7a+tdV22EU8ljrAze1uSt7/vKulb1KZp4juNp
+wh5gKWDFLEFRvefMr/OuCZIIBhSjxDsnS0CxiB1gyPXoyaO+GFqPzSqi5vvXIGhL
+V3LJuXQ18ViKSKlDAFlPzuU7WGzS4g==
+=+9pl
+-----END PGP SIGNATURE-----
