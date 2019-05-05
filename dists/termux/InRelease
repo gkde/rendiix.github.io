@@ -6,7 +6,7 @@ Version: 1
 Architectures: aarch64 arm
 Description: termux repository
 Suite: termux
-Date: Sun, 05 May 2019 04:34:02 UTC
+Date: Sun, 05 May 2019 05:00:09 UTC
 MD5Sum:
  0d25735ab2f0f1d5366dbb6fae19485f 1243 extras/binary-aarch64/Packages
  de30afdfabeab15f20efa0fa8598887f 820 extras/binary-aarch64/Packages.xz
@@ -45,12 +45,12 @@ SHA512:
  4c5d99b0e79e20835852988fd1d9e0abd57f8bfdfe8aa48b90466d95f2dffe00cd1dfe414d79a2c7c90053643838cf8ece15a95c4107448baa135133ae8850d9 108 extras/Contents-arm.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAlzOZ7sACgkQc5qL4q9N
-bnuZWgf9H/n1Djxhixzxh5vWnu/0mP36LcBTW5aBjwb6I2zYhnf4GV1Dsg0/KL4p
-/wQ85+Y5GqdwSRXZFc8D2C16+j9Rzx8Fv1T2qXN2XEd5HukqSiJIPzVRj/qgaMyn
-f7zDaZDfxBjZ1pmkuBS1+XYhLRlB0yUtYDxDn1lIjwInMTZwBWu57dnok6QVQqO4
-+5mP+bDjvJNJd0/Z5PIcALsMnaoDRHL/sU6LKDKN6U2nI+NVl+s25li27bGdaVtR
-IGuKFIOJB4++hEwl46M3y0J9Qb8IxLgjZ7DszLJm/c8h6ulHqLIgRYWjXwvabH3F
-SWE2VzmTTMmylEhCGmzoNr/4NsD4iw==
-=OAX4
+iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAlzObdoACgkQc5qL4q9N
+bnuv/gf9FyiOtOLUIVudnMIkQbq6ArrytF4/TKAbc9ZzpjFEOAg3x3297eQg4Ai2
+AD32wIHz0DK674Thn1IB949CHxhd0+WKoyQWFF1r2PWXdPfc8eBuZoQEbjyTP+K1
+jlzE8RTEymN9GCMupRhL+5Q+L3SfeUQGSMoQGUJzjrnEGZjcaqcGTK/RvjhV6npW
+CgKDl1cQnjuetgcN6ffPxmEBQfQPZBGBBe+l4e07ldZR/+L0Dayc21uxc5MBtOaX
+3C+GI0zjD3f9omDDXwIYAOzRXKOU024of6CJsN5eu+SA1rvkXs5xokG20sJ81//g
+doY1bWn4K/cz7FDlebN1mvsWajIoBg==
+=11Wh
 -----END PGP SIGNATURE-----
