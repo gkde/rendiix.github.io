@@ -1,0 +1,13 @@
+Package: shc
+Version: 4.0.1-2
+Architecture: arm
+Maintainer: vanzdobz@gmail.com
+Description: Generic Shell Script Compiler
+Depends: clang
+Filename: dists/termux/extras/binary-arm/shc_4.0.1-2_arm.deb
+Size: 190160
+MD5Sum: 08c61d4d2408aa6c822e1c109f4dc8f8
+SHA1: 6796dccb9dfb0bf730cc86635a83b6c8f672583a
+SHA256: b0014e6c8b50c14ffc2f7c4270db0f47ae692092189986e5b4f817f48ce412c5
+SHA512: c9e33d0353141045dc9f7cd30d08dcfed2e8bdf6d610b4f114fba00375de9b8c9e81e236fb4f1262f03daeb2794b51906cc56205849e7f57382c7ceb6abff58e
+

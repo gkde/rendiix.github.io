@@ -1,0 +1,28 @@
+Package: heroku
+Architecture: aarch64
+Installed-Size: 8531
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 6.99.0
+Homepage: https://www.heroku.com
+Depends: nodejs
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku
+Filename: dists/termux/extras/binary-aarch64/heroku_9.66.0_aarch64.deb
+Size: 5500124
+MD5Sum: 12d312112ae319231f19fd581b233128
+SHA1: aaabf4e495df8b50d186aaf834f620b5bd4cb264
+SHA256: 2e4dc7b71944850af5398aba2a06c3856eaee558ad32e692ad65e4bb25e16ecb
+SHA512: 4c249c0c2dabbe5aa9d4f7892c82e05bd5950d3dea04e9d6248432d1c6e47ac92978a6949d45beb1f5ce074d8c9306672233cdfc408c34bc311bd488d64b4516
+
+Package: shc
+Version: 4.0.1-2
+Architecture: aarch64
+Maintainer: vanzdobz@gmail.com
+Description: Generic Shell Script Compiler
+Depends: clang
+Filename: dists/termux/extras/binary-aarch64/shc_4.0.1-2_aarch64.deb
+Size: 182100
+MD5Sum: 1651a338b32094f15f60bb3b995fd6e6
+SHA1: def509ebeea56321862ef8019104bf3e56dbc5f5
+SHA256: 56b0338181811b72685418f28401e98b833f6c997b2167db055955137762c35c
+SHA512: 3babde57807e0421926a670a01f9669f331938122c5f0536af71aea389b410bd0391c1b269fb6a9b04655d50f7cc957f98d5ef87fd51e5e6b3d7a3c82f2350a5
+
