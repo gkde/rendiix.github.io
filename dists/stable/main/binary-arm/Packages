@@ -1,3 +1,17 @@
+Package: android-img-tools
+Architecture: arm
+Installed-Size: 2836
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 1.0
+Homepage: https://github.com/rendiix/android-prebuilt-binary-tools
+Description: Android image tools: make_ext4fs, sefcontext_compile, sefcontext_decompile, img2simg, simg2img, append2simg
+Filename: dists/stable/main/binary-arm/android-img-tools_1.0_arm.deb
+Size: 406720
+MD5Sum: 648eee01a5f055e824900d070b6aff8a
+SHA1: 795a0dac917af8b4d5b3910ea257a0c208f1a174
+SHA256: 4accf852326329b8b937748bb90bf118a2e52c3a392625f6cb2f8031b209ec84
+SHA512: ff57aad11fa6202ba59960b6a09185f941ccd36c5d43e8415f240413d53f4eb87ed72811607736fbb4a482a560f164ce078a7adfa46231e1e319f4bbfeb2c7a7
+
 Package: heroku
 Architecture: arm
 Installed-Size: 8531
