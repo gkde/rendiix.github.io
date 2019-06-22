@@ -1,0 +1,42 @@
+Package: android-img-tools
+Architecture: aarch64
+Installed-Size: 2836
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 1.0
+Homepage: https://github.com/rendiix/android-prebuilt-binary-tools
+Description: Android image tools: make_ext4fs, sefcontext_compile, sefcontext_decompile, img2simg, simg2img, append2simg
+Filename: dists/stable/main/binary-aarch64/android-img-tools_1.0_aarch64.deb
+Size: 451312
+MD5Sum: 05b7258317d84312c7f69590a2a7e413
+SHA1: e6f4829c70bd62234ae3355f1d2755cbe84e9250
+SHA256: ef82587ce9b5237d4b67c8e1ec85201cbce7321ebb9a4affe9ec067da9d5bf8e
+SHA512: b3e228afb9324c557e193a941ce550b1c39c3dc25431285cef5657ddf6264c59d34f3deec5bcaf8b9f4f7db9fc41eb7ef7046f33d685cf0ed19050da101984a6
+
+Package: heroku
+Architecture: aarch64
+Installed-Size: 59883902
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 7.25.0
+Depends: nodejs
+Homepage: https://devcenter.heroku.com/articles/heroku-cli
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
+Filename: dists/stable/main/binary-aarch64/heroku-7.25.0-aarch64.deb
+Size: 7006352
+MD5Sum: d78df01ac0777c6682ae5766f1de22f9
+SHA1: 067b3d6f2e995759f7fff238744534522d0e4892
+SHA256: 75fd4ae585368ea8e10265f58f5bfb37ac9c5993465553b80b5fd97680ffe976
+SHA512: 93744c44bdea5cbb1123bf4f225fe69fac2c5cccd7deba6b3dae3ecee91b973f46a64a0d0e1d86658c55ff9021069c1fefdf9d8d8178bd26764e5dbbbf2d0131
+
+Package: shc
+Version: 4.0.1-2
+Architecture: aarch64
+Maintainer: vanzdobz@gmail.com
+Description: Generic Shell Script Compiler
+Depends: clang
+Filename: dists/stable/main/binary-aarch64/shc_4.0.1-2_aarch64.deb
+Size: 182100
+MD5Sum: 1651a338b32094f15f60bb3b995fd6e6
+SHA1: def509ebeea56321862ef8019104bf3e56dbc5f5
+SHA256: 56b0338181811b72685418f28401e98b833f6c997b2167db055955137762c35c
+SHA512: 3babde57807e0421926a670a01f9669f331938122c5f0536af71aea389b410bd0391c1b269fb6a9b04655d50f7cc957f98d5ef87fd51e5e6b3d7a3c82f2350a5
+
