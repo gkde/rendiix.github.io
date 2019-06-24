@@ -47,6 +47,21 @@ Architecture: aarch64
 Installed-Size: 565
 Depends: clang
 Maintainer: Rendiix vanzdobz@gmail.com
+Version: 4.0.2
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-aarch64/shc_4.0.2_aarch64.deb
+Size: 186768
+MD5Sum: cfa30490229d683ebac73dc67a0bec5a
+SHA1: f7d04d107cd9240e7068db745d3c7308466dd473
+SHA256: b8d66ca026c6e0a5c5b560d1cd8aaa356b4b516fd29b608252399d42763666a6
+SHA512: 2d2c56ace640c1b6511e53ee22c294740b62a5364c7414f2ad9de51a2ce685958f94a6368d6b6e38fb379e05aed64505b0c00594cd44b5445d8d0c1c2944a14c
+
+Package: shc
+Architecture: aarch64
+Installed-Size: 565
+Depends: clang
+Maintainer: Rendiix vanzdobz@gmail.com
 Version: 4.0.3
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
