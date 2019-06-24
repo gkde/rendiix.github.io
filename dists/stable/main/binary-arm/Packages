@@ -15,28 +15,45 @@ SHA512: ff57aad11fa6202ba59960b6a09185f941ccd36c5d43e8415f240413d53f4eb87ed72811
 Package: heroku
 Architecture: arm
 Installed-Size: 58465
+Depends: 
 Maintainer: Rendiix vanzdobz@gmail.com
 Version: 7.25.0
-Depends: nodejs
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
-Filename: dists/stable/main/binary-arm/heroku-7.25.0-arm.deb
-Size: 7006344
-MD5Sum: dc031cd186182520c16b2124c3d30cb1
-SHA1: 0c0e9d2a4e85d7cf5966ae29e53f569223b2f144
-SHA256: e7d5e0d96d6722da5843be727921b705da1f3e1d707946f217c3feaae9ee5416
-SHA512: fef2f593994a136e3c6901a8a1aa50595ef826675bf0fbb21db1e8c9f20a5d7d2787db77a84b196738efec5f167edcf8e58093013c0a4d534575dd6eb4412710
+Filename: dists/stable/main/binary-arm/heroku_7.25.0_arm.deb
+Size: 7010196
+MD5Sum: c131e5940fccf6c06023fbf01cb71870
+SHA1: 0667a4193415f26a184c87fc4bcadb43307f05dc
+SHA256: f35b63fb31da8491abe237496739499aa408fa56cb93820486f9402e7a1d3a9d
+SHA512: f659d8f9c0121d4a9059f9276b403092ee12e3cbb813384852be31c1040958cdc5c05d8a953420abdecfdb9325cab58af97747780eecce94e6be24a84bdd2dac
+
+Package: lolcat-c
+Architecture: arm
+Installed-Size: 340
+Depends: 
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 1.1
+Homepage: https://github.com/jaseg/lolcat
+Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal
+Filename: dists/stable/main/binary-arm/lolcat-c_1.1_arm.deb
+Size: 165252
+MD5Sum: f566c29a631ebfdf75ee02325d8c9fa2
+SHA1: 3713036d34be0cf08146de0666530df9c0117cf2
+SHA256: 20d53cf8e20e434db95e4a40dd406aafa3d8e8624509e168c52f16ae40faddcb
+SHA512: 55d1912562d0a2aa01b2241b6c391b95f394a5e8d6808fe69f128c6e36cff41cae299bd436eb30f2b25156b04320fecfec25e7d7f327424631f6902b6e3906ff
 
 Package: shc
-Version: 4.0.1-2
 Architecture: arm
-Maintainer: vanzdobz@gmail.com
-Description: Generic Shell Script Compiler
+Installed-Size: 424
 Depends: clang
-Filename: dists/stable/main/binary-arm/shc_4.0.1-2_arm.deb
-Size: 190160
-MD5Sum: 08c61d4d2408aa6c822e1c109f4dc8f8
-SHA1: 6796dccb9dfb0bf730cc86635a83b6c8f672583a
-SHA256: b0014e6c8b50c14ffc2f7c4270db0f47ae692092189986e5b4f817f48ce412c5
-SHA512: c9e33d0353141045dc9f7cd30d08dcfed2e8bdf6d610b4f114fba00375de9b8c9e81e236fb4f1262f03daeb2794b51906cc56205849e7f57382c7ceb6abff58e
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 4.0.3
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-arm/shc_4.0.3_arm.deb
+Size: 195700
+MD5Sum: c0aec05d5746c78948069c771c397c40
+SHA1: 19339d8c89870d457014b63ebb21f1e1e4bcd408
+SHA256: a9952dd9b27ec38145f871aa22f82f815a1a1fef07bd3f98236cc422ed98ac67
+SHA512: c3fb232f35d3d81f53b2423c06c1caa07b9dca319b2d727c81fb881742c0f982638e34b780a4be1da223231c6ec4ec0160a33e11763930c4484ec8af5f85f115
 
