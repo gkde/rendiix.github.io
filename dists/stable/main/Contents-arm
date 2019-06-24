@@ -17852,4 +17852,3 @@ data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/tar-fs/node_
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/temp/node_modules/.bin/rimraf heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/tunnel-ssh/node_modules/ssh2-streams/node_modules/.bin/semver heroku
 data/data/com.termux/files/usr/bin/lolcat                                        lolcat-c
-data/data/com.termux/files/usr/bin/shc                                           shc
