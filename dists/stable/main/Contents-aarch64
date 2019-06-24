@@ -17853,3 +17853,4 @@ data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/temp/node_mo
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/tunnel-ssh/node_modules/ssh2-streams/node_modules/.bin/semver heroku
 data/data/com.termux/files/usr/bin/lolcat                                        lolcat-c
 data/data/com.termux/files/usr/bin/shc                                           shc
+data/data/com.termux/files/usr/share/man/man1/shc.1                              shc

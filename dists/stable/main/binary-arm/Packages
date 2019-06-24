@@ -21,11 +21,11 @@ Version: 7.25.0
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
 Filename: dists/stable/main/binary-arm/heroku_7.25.0_arm.deb
-Size: 7014384
-MD5Sum: 058686c5e4cc6e9e1076ae4ac938de84
-SHA1: 705864d10dfca3ff0dc259f282ee4ee012cc143f
-SHA256: aa2cdb0be5827d5f239e7d93e3a5dca2fd4639b9b8ad4befdf403f8a9d45642c
-SHA512: 9fc4186193340386111ed4793b8aba7c9acae54fc2ff2fbb436866f7bf33163b01680635f333cbc3ec6b118f76fa5e8852a2123f5e2820393f21e99a11f31b2e
+Size: 7013952
+MD5Sum: 35fc90b1ad5380c96dafce029d7624c9
+SHA1: c8dcf927d167afa1bd9dd98a2e05af5f417d6752
+SHA256: de48a63a6532869329d4be8c0bd16f1e3bd00fd6149e2223cd0d6a066bdc2df7
+SHA512: e59a6ec11feabf2523c38244897a6651786b697d995561bce819a12ceb1deabd77b216d8b85338abade8db0818cab1b04c1c973f19569cf16e09b48a6ed8258c
 
 Package: lolcat-c
 Architecture: arm
@@ -36,24 +36,24 @@ Version: 1.1
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal
 Filename: dists/stable/main/binary-arm/lolcat-c_1.1_arm.deb
-Size: 165204
-MD5Sum: 31696a9108d02d07cd7f8fc383fefe55
-SHA1: e6a55c9a739404ecb9ffd44c7234e8accfc18e6c
-SHA256: 239cda5cb4963b437e5d6a3ae91fd78e7a6f66aa4ff8a8db76bdb54ffb5b3f72
-SHA512: 86d83d90760208f3066d8548e3f4b868d8034b2adab68fcf42dca512fe57739285410d79acaa0efd3fe49ce7be671ec03c7046c9669eb46b4e067745cb248990
+Size: 165196
+MD5Sum: 3c01c87c32a727a21c4b01c7fe7ee018
+SHA1: eaf3efb75d35a45ca14fb1a76e164f24ac222d8c
+SHA256: 78e69f20d90ee2b437a987b45779df22043cc89d8db2d83eec8e6fdc5790ce55
+SHA512: 22b69382bbabfde5b2c22cd8184b503ab5ff7323c1c0c91b1ac85757439f4163f91e905ba783b265589fe2c0d881ab1eae408f023baa19c50dbe74bef15ff30b
 
 Package: shc
 Architecture: arm
-Installed-Size: 416
+Installed-Size: 420
 Depends: clang
 Maintainer: Rendiix vanzdobz@gmail.com
 Version: 4.0.3
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-arm/shc_4.0.3_arm.deb
-Size: 194008
-MD5Sum: 758b2d9c0096a085d1018a427c06f320
-SHA1: 06b864f54d36ff2b46ad4926181f57e379f84765
-SHA256: a149fac5455e42f724e50ac8c785095b693240b7cd55f79a952a77f39b7e63ae
-SHA512: fa345ed41b6a7567a5d4dd785a71a4ca6fcb7f210a5d96768ab3a0b49c928a1ba8609a310f574a9a7b0334820f262f4a6feae584eb1babe5e52eda405527425d
+Size: 194712
+MD5Sum: d6b2f9126652c1e29775f01824405b3d
+SHA1: 65b54ad1b0bd9c12cf0ccdd293da317d6c82063e
+SHA256: c8fd2af59a08e098733a015161031db673f1df0b26e617e9754bc7b1c6f8a48f
+SHA512: 9cb3c8a4e41e8cacca1f32a866504bf0135021245eb30c745da1e5785ad10e615502b526a97d4f836a96cad43df3766a43ab4454760e62d0d1bfcda4c9aab020
 

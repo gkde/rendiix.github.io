@@ -21,39 +21,39 @@ Version: 7.25.0
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
 Filename: dists/stable/main/binary-aarch64/heroku_7.25.0_aarch64.deb
-Size: 7007716
-MD5Sum: 64d46934997d06e798853858f098e226
-SHA1: 32d4f41f9adb650afd95bace8770351ac703a164
-SHA256: 8dba1a9ca32bc43a86c5480faa197bbbb7037d4b4441f5a560f7231ccdc8e031
-SHA512: 6dae0f0efbe08f84959bcf589a63e2c2bdd7707c521be0d5da380cab4966ba84f5d0c5d9f2a03a1dd007319d726bec3c0f9f5ae107f786e6b87d979cf788c727
+Size: 7016652
+MD5Sum: 74a09d9cd9133369ba73a25c9628f02b
+SHA1: 1817af283b73a3bfef7f7d063532a50eb08f45b8
+SHA256: 9fdc84e0bb1d92b70f3b392bd0dcf3ff2a20c271a08a37dd0b6ae032f6629b4c
+SHA512: 5734a188215e6b3464ed187879ed94e3aa743e741d882151afbacd9efc5ece42983406542aa8d82f07128c02a2dd74abaf74aa88fe3b42eb3b601a8a3f36ec16
 
 Package: lolcat-c
 Architecture: aarch64
-Installed-Size: 332
+Installed-Size: 489
 Depends: 
 Maintainer: Rendiix vanzdobz@gmail.com
 Version: 1.1
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal
 Filename: dists/stable/main/binary-aarch64/lolcat-c_1.1_aarch64.deb
-Size: 163460
-MD5Sum: be121cbabfb81a10c988229b57810dda
-SHA1: 3418806e22b55bdd61f541d4a45d79313e2df541
-SHA256: 73cad32869b5bfc7fd5ee651ec49a673aa25cbf8839ae5d45f3949f2d2045e3f
-SHA512: d6ddfa7362e98533b135351e84b7f5fbca9f07ee9fe94aaa337a1b92b7fd6e809870667f3374bbe6ba9ea5adbe08250cd522b9d6421254f29c9aa18111eddd3e
+Size: 160188
+MD5Sum: a3ffd3cfc3015c8cd92c1fdf0b3c4119
+SHA1: ff530b7c097a03fee3b574e9dbf65a5b1c041a47
+SHA256: 7773de15bbd5b7b86f830c0c5b926e91d183c2793f38a1273dd62a01e8e242c3
+SHA512: 9ab447c80447cb21842cfb2168cd14c42af7f64f8379e8aa672e7777608101b539d3c8149a962e9b210a23e667bc6db7725e30fbba37c68e18522fe0e0e6597f
 
 Package: shc
 Architecture: aarch64
-Installed-Size: 404
+Installed-Size: 565
 Depends: clang
 Maintainer: Rendiix vanzdobz@gmail.com
 Version: 4.0.3
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-aarch64/shc_4.0.3_aarch64.deb
-Size: 191716
-MD5Sum: 5d98d25efe8af67f417623d7ebe1c0d2
-SHA1: ad877fa2c06df16402494d0d5f3aead471a1f338
-SHA256: c3d8d006c4b9da09166998f6742b5f96f70a69daef07007c9344dc11f9fc9be8
-SHA512: b4b9e6443ae91b7f51e94a2eb94dd28badb16a88fd9361790bae5cd0c98962a060ea2d2fda7987916c3b3b568ecb6ccc6fb3f7292241516013994f139b9bad79
+Size: 186720
+MD5Sum: 06d7d75bd1bf3878c931369bb2198442
+SHA1: 7f9e17539860aa4d0757fdabd44a9f7f118693dd
+SHA256: 1d49a1775524d71e1e1afb0d8331f7c79aebdb79f1b49098c262568976c2b7fb
+SHA512: e6d8c5b240498106988cb3388e79ba80a1a5932613f7498abaf98d1d0965d94ecf569518cecc01f3bb4af88dd5da0d58dc39e8afa96f6fa86b4374cba53fba19
 
