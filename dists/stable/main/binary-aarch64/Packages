@@ -21,9 +21,39 @@ Version: 7.25.0
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
 Filename: dists/stable/main/binary-aarch64/heroku_7.25.0_aarch64.deb
-Size: 7007456
-MD5Sum: 00d37aa400d83ff543c3103a3a660013
-SHA1: cf81e971acf87a948e1821bcbd149c6485ec155d
-SHA256: 33e6ad16f62eb5ffe6bb7a958adb69ec4187a157de9f5f8f39966385fd5036d3
-SHA512: ff7d92b7682ac9e8e49180bf8767493b037d7f56158cc16feea94b98e914571b26c94c5b65effc42a53bb2f76ac2ab0ab0a033469ed3dad117bca7195edd0719
+Size: 7007716
+MD5Sum: 64d46934997d06e798853858f098e226
+SHA1: 32d4f41f9adb650afd95bace8770351ac703a164
+SHA256: 8dba1a9ca32bc43a86c5480faa197bbbb7037d4b4441f5a560f7231ccdc8e031
+SHA512: 6dae0f0efbe08f84959bcf589a63e2c2bdd7707c521be0d5da380cab4966ba84f5d0c5d9f2a03a1dd007319d726bec3c0f9f5ae107f786e6b87d979cf788c727
+
+Package: lolcat-c
+Architecture: aarch64
+Installed-Size: 332
+Depends: 
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 1.1
+Homepage: https://github.com/jaseg/lolcat
+Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal
+Filename: dists/stable/main/binary-aarch64/lolcat-c_1.1_aarch64.deb
+Size: 163460
+MD5Sum: be121cbabfb81a10c988229b57810dda
+SHA1: 3418806e22b55bdd61f541d4a45d79313e2df541
+SHA256: 73cad32869b5bfc7fd5ee651ec49a673aa25cbf8839ae5d45f3949f2d2045e3f
+SHA512: d6ddfa7362e98533b135351e84b7f5fbca9f07ee9fe94aaa337a1b92b7fd6e809870667f3374bbe6ba9ea5adbe08250cd522b9d6421254f29c9aa18111eddd3e
+
+Package: shc
+Architecture: aarch64
+Installed-Size: 404
+Depends: clang
+Maintainer: Rendiix vanzdobz@gmail.com
+Version: 4.0.3
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-aarch64/shc_4.0.3_aarch64.deb
+Size: 191716
+MD5Sum: 5d98d25efe8af67f417623d7ebe1c0d2
+SHA1: ad877fa2c06df16402494d0d5f3aead471a1f338
+SHA256: c3d8d006c4b9da09166998f6742b5f96f70a69daef07007c9344dc11f9fc9be8
+SHA512: b4b9e6443ae91b7f51e94a2eb94dd28badb16a88fd9361790bae5cd0c98962a060ea2d2fda7987916c3b3b568ecb6ccc6fb3f7292241516013994f139b9bad79
 
