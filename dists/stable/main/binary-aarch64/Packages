@@ -57,18 +57,3 @@ SHA1: f7d04d107cd9240e7068db745d3c7308466dd473
 SHA256: b8d66ca026c6e0a5c5b560d1cd8aaa356b4b516fd29b608252399d42763666a6
 SHA512: 2d2c56ace640c1b6511e53ee22c294740b62a5364c7414f2ad9de51a2ce685958f94a6368d6b6e38fb379e05aed64505b0c00594cd44b5445d8d0c1c2944a14c
 
-Package: shc
-Architecture: aarch64
-Installed-Size: 565
-Depends: clang
-Maintainer: Rendiix vanzdobz@gmail.com
-Version: 4.0.3
-Homepage: https://github.com/neurobin/shc
-Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
-Filename: dists/stable/main/binary-aarch64/shc_4.0.3_aarch64.deb
-Size: 186720
-MD5Sum: 06d7d75bd1bf3878c931369bb2198442
-SHA1: 7f9e17539860aa4d0757fdabd44a9f7f118693dd
-SHA256: 1d49a1775524d71e1e1afb0d8331f7c79aebdb79f1b49098c262568976c2b7fb
-SHA512: e6d8c5b240498106988cb3388e79ba80a1a5932613f7498abaf98d1d0965d94ecf569518cecc01f3bb4af88dd5da0d58dc39e8afa96f6fa86b4374cba53fba19
-
