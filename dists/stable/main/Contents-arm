@@ -17796,8 +17796,6 @@ data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/yarn/package
 data/data/com.termux/files/usr/lib/node_modules/heroku/oclif.manifest.json       heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/package.json              heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/yarn.lock                 heroku
-data/data/com.termux/files/usr/local/bin/shc                                     heroku
-data/data/com.termux/files/usr/local/share/man/man1/shc.1                        heroku
 data/data/com.termux/files/usr/bin/heroku                                        heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/.bin/cdl     heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/.bin/esparse heroku
@@ -17854,5 +17852,4 @@ data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/tar-fs/node_
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/temp/node_modules/.bin/rimraf heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/tunnel-ssh/node_modules/ssh2-streams/node_modules/.bin/semver heroku
 data/data/com.termux/files/usr/bin/lolcat                                        lolcat-c
-data/data/com.termux/files/usr/local/bin/shc                                     shc
-data/data/com.termux/files/usr/local/share/man/man1/shc.1                        shc
+data/data/com.termux/files/usr/bin/shc                                           shc
