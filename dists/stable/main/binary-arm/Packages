@@ -7,11 +7,11 @@ Version: 7.26.2
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
 Filename: dists/stable/main/binary-arm/heroku_7.26.2_arm.deb
-Size: 7036768
-MD5Sum: 8ad3185290e8fd051c5536d80f591dc5
-SHA1: d657552cb577c03c5536fe603e1cde6069c9be5d
-SHA256: 19cec71036ca0ca44e8b2109278b6e43afdd5fb10ccdb4a2a91e76e080bf7f0e
-SHA512: d699ca2487bd01c284ecbbb0bd96545302865369c57133304b05178904f9cfba3f0494e9b0c0c448dcb09b9ed974c5d8a4fa6658588e9042a45b0243334ba377
+Size: 7034652
+MD5Sum: 09ec5c6e9bdf11e41cbf19fc4e0b9135
+SHA1: 683263fa78d6551719508a4749b0fcc8085cf8f9
+SHA256: c182a40a205e02ecd35f3bff2222683da48d14228b057dd43670ab025e5b0e4e
+SHA512: 505e5760b04aa2edd16cef85b8ef87eb58159beb3cfba8d374c4f3e256532d88cd203000f2fe3153ae495c891b284e56f5f3eea71766c281226abac8fc10607b
 
 Package: img2sdat
 Architecture: arm

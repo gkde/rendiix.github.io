@@ -7,11 +7,11 @@ Version: 7.26.2
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
 Filename: dists/stable/main/binary-aarch64/heroku_7.26.2_aarch64.deb
-Size: 7035792
-MD5Sum: 334b20735a69e5575694c3b15f5a2e58
-SHA1: d97e914ef50203e772b7a07deb02e60fe93b9bee
-SHA256: 55f1dc4cdbeeb3aa30ce04dcfba73640003990641ec74195c13e955656693197
-SHA512: 2723c4e4ecefe6538750d17d471e924f3f7567faba8e092238f152d7e05e63db86cf5f523bafdf1cd77b7b56cd8c71245901e8ab929eef6425006d5df6a9d6bf
+Size: 7038876
+MD5Sum: cee38ab3ff7637aa1d92d71fae59606e
+SHA1: 90b9ad00ee49827bca6558bbbb1401b149be12c5
+SHA256: c32ec9c2b0771523eb29b352d9ec91ad6834fb29f55438ed266b90136b62e3cb
+SHA512: 941a8b0500d8f620d132a72f5a2b19263b30901ff0413e22b127cf498b992d6d4ea5cfac68e9d986b36f810566fa10cf2d44efaf8a02f6f8dbf50232a11d2d5d
 
 Package: img2sdat
 Architecture: aarch64
