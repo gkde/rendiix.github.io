@@ -4,7 +4,7 @@ android tools repo
 
 ####
 
-[![Discord](https://img.shields.io/discord/404576842419273729.svg?logo=discord&style=social)](https://discord.gg/5PmKhrc)
+[![Discord](https://img.shields.io/discord/404576842419273729.svg?label=Discord%20channel&logo=discord)](https://discord.gg/5PmKhrc)
 ![GitHub](https://img.shields.io/github/license/rendiix/rendiix.github.io.svg)
 [![HitCount](http://hits.dwyl.io/rendiix/rendiix.github.io.svg)](http://hits.dwyl.io/rendiix/rendiix.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/rendiix/rendiix.github.io.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rendiix/rendiix.github.io/network/)
