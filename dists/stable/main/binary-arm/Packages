@@ -1,59 +1,44 @@
-Package: android-img-tools
+Package: img2sdat
 Architecture: arm
-Installed-Size: 2836
-Maintainer: Rendiix vanzdobz@gmail.com
-Version: 1.0
-Homepage: https://github.com/rendiix/android-prebuilt-binary-tools
-Description: Android image tools: make_ext4fs, sefcontext_compile, sefcontext_decompile, img2simg, simg2img, append2simg
-Filename: dists/stable/main/binary-arm/android-img-tools_1.0_arm.deb
-Size: 406720
-MD5Sum: 648eee01a5f055e824900d070b6aff8a
-SHA1: 795a0dac917af8b4d5b3910ea257a0c208f1a174
-SHA256: 4accf852326329b8b937748bb90bf118a2e52c3a392625f6cb2f8031b209ec84
-SHA512: ff57aad11fa6202ba59960b6a09185f941ccd36c5d43e8415f240413d53f4eb87ed72811607736fbb4a482a560f164ce078a7adfa46231e1e319f4bbfeb2c7a7
-
-Package: heroku
-Architecture: arm
-Installed-Size: 58469
-Depends: nodejs
-Maintainer: Rendiix vanzdobz@gmail.com
-Version: 7.25.0
-Homepage: https://devcenter.heroku.com/articles/heroku-cli
-Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal.
-Filename: dists/stable/main/binary-arm/heroku_7.25.0_arm.deb
-Size: 7013952
-MD5Sum: 35fc90b1ad5380c96dafce029d7624c9
-SHA1: c8dcf927d167afa1bd9dd98a2e05af5f417d6752
-SHA256: de48a63a6532869329d4be8c0bd16f1e3bd00fd6149e2223cd0d6a066bdc2df7
-SHA512: e59a6ec11feabf2523c38244897a6651786b697d995561bce819a12ceb1deabd77b216d8b85338abade8db0818cab1b04c1c973f19569cf16e09b48a6ed8258c
+Installed-Size: 149
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.7
+Homepage: https://github.com/xpirt/img2sdat
+Description: Convert sparse EXT4 image to sparse Android data image
+Filename: dists/stable/main/binary-arm/img2sdat_1.7_arm.deb
+Size: 34776
+MD5Sum: 686a7fd79948b71adcc7f1a2515c1d0a
+SHA1: 32645c7f7988df5fee98d618f6f771604b9522b2
+SHA256: 8c9745d309f2840cb51f1379f523431ebd652caf1f8e2201cc2906ed8ae29877
+SHA512: 1ef3a09b894101d8ebec0c5d754a7f03664d9cbb3283a60af00d65733504d1ce09341928a31ad38e2bd088667f77e385fc8f4e921167772e2345a327b2227458
 
 Package: lolcat-c
 Architecture: arm
-Installed-Size: 344
-Depends: 
-Maintainer: Rendiix vanzdobz@gmail.com
-Version: 1.1
+Installed-Size: 645
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
-Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal
-Filename: dists/stable/main/binary-arm/lolcat-c_1.1_arm.deb
-Size: 165196
-MD5Sum: 3c01c87c32a727a21c4b01c7fe7ee018
-SHA1: eaf3efb75d35a45ca14fb1a76e164f24ac222d8c
-SHA256: 78e69f20d90ee2b437a987b45779df22043cc89d8db2d83eec8e6fdc5790ce55
-SHA512: 22b69382bbabfde5b2c22cd8184b503ab5ff7323c1c0c91b1ac85757439f4163f91e905ba783b265589fe2c0d881ab1eae408f023baa19c50dbe74bef15ff30b
+Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
+Filename: dists/stable/main/binary-arm/lolcat-c_1.0_arm.deb
+Size: 188604
+MD5Sum: b8f83bac8c362a7139a9886c42dee07d
+SHA1: a8c6c58002fba56f5940b7963ea9f95d946d47a2
+SHA256: 427c7dfc8a62ffdb159ba551bfc90f5a50f766cb708256280384b79a77ec1fe2
+SHA512: 439a6863aaed6200ab2b5285107dd69c9039a5eac00a02a38488881c31d2b3fe5ec1be4377b008d006f7fd3b8bb10586eb46ef9e6d867639583b7f6d43d8aeed
 
-Package: shc
+Package: sdat2img
 Architecture: arm
-Installed-Size: 420
-Depends: clang
-Maintainer: Rendiix vanzdobz@gmail.com
-Version: 4.0.2
-Homepage: https://github.com/neurobin/shc
-Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
-Filename: dists/stable/main/binary-arm/shc_4.0.2_arm.deb
-Size: 194736
-MD5Sum: dc8766f11784a3637f42cbb6f09c3796
-SHA1: 76bfb33a852e4b44aad213db302a67a2e7ed5aa7
-SHA256: d8dcdb7a408fe3ca2469076d74583f1a6c7d7bd1758f92e5f73c164910dfa5a6
-SHA512: 93bd60a67c00c781a094f7680c0a91115f3256693955083b072371b1595e59364dc0a221c5a0a412db6214cd3923704e958c77446b430824b1afdc1958688d80
+Installed-Size: 27
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.2
+Homepage: https://github.com/xpirt/sdat2img
+Description: Convert sparse Android data image to filesystem ext4 image
+Filename: dists/stable/main/binary-arm/sdat2img_1.2_arm.deb
+Size: 3600
+MD5Sum: a50ec52d46f88bd6280f256fe918d367
+SHA1: 9e2243761e8c59f447917be2983eafd1142d35c1
+SHA256: 6d7fd18e92544670cb4e29b2d18af08d0f0fad2c320b333a62d46dfd3f1c6e80
+SHA512: a9129411946a59796f997c5e6927b727e3d56602900f4e57913bbd350c9623cf2c2bdd919486484a501aa5cb4587e338a4ffd292526b94046c55c929419a094d
 
