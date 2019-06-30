@@ -7,10 +7,9 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/rendiix.github.io.svg)](https://GitHub.com/rendiix/rendiix.github.io/graphs/contributors/)
 
 # THIRD PARTY TERMUX REPOSITORY
-## android tools repo
+## Android development tools
 
-####
-Join or follow me on:
+#### Join Discord or follow me on Twitter:
 
 [![Discord](https://img.shields.io/discord/404576842419273729.svg?label=join%20discord&logo=discord)](https://discord.gg/5PmKhrc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rendiix.svg?color=green&label=follow&logo=twitter&style=social)](https://twitter.com/rendiix)
