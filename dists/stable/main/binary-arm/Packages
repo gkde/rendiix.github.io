@@ -1,3 +1,18 @@
+Package: heroku
+Architecture: arm
+Installed-Size: 58948
+Depends: nodejs
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 7.26.2
+Homepage: https://devcenter.heroku.com/articles/heroku-cli
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
+Filename: dists/stable/main/binary-arm/heroku_7.26.2_arm.deb
+Size: 7036768
+MD5Sum: 8ad3185290e8fd051c5536d80f591dc5
+SHA1: d657552cb577c03c5536fe603e1cde6069c9be5d
+SHA256: 19cec71036ca0ca44e8b2109278b6e43afdd5fb10ccdb4a2a91e76e080bf7f0e
+SHA512: d699ca2487bd01c284ecbbb0bd96545302865369c57133304b05178904f9cfba3f0494e9b0c0c448dcb09b9ed974c5d8a4fa6658588e9042a45b0243334ba377
+
 Package: img2sdat
 Architecture: arm
 Installed-Size: 149
@@ -7,11 +22,11 @@ Version: 1.7
 Homepage: https://github.com/xpirt/img2sdat
 Description: Convert sparse EXT4 image to sparse Android data image
 Filename: dists/stable/main/binary-arm/img2sdat_1.7_arm.deb
-Size: 34776
-MD5Sum: 686a7fd79948b71adcc7f1a2515c1d0a
-SHA1: 32645c7f7988df5fee98d618f6f771604b9522b2
-SHA256: 8c9745d309f2840cb51f1379f523431ebd652caf1f8e2201cc2906ed8ae29877
-SHA512: 1ef3a09b894101d8ebec0c5d754a7f03664d9cbb3283a60af00d65733504d1ce09341928a31ad38e2bd088667f77e385fc8f4e921167772e2345a327b2227458
+Size: 34760
+MD5Sum: 7f39d3a89121c27d77caed1af0c8d732
+SHA1: 63d59bba27a66bb549ef93305465c5d172dafcae
+SHA256: 96482efb4117d27a8ee7f375f0fec24347a3982223b42cb292337132089100eb
+SHA512: 4ec62fd478f5ff38bf31fd6f502e08a9d9ac8eb89c2ff1bc0541e1961d86fd9182736d6f7843ee1ec4f04a0f6019d87c972a4a6efc8084f137d50034c4a2afc8
 
 Package: lolcat-c
 Architecture: arm
@@ -21,11 +36,11 @@ Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-arm/lolcat-c_1.0_arm.deb
-Size: 188604
-MD5Sum: b8f83bac8c362a7139a9886c42dee07d
-SHA1: a8c6c58002fba56f5940b7963ea9f95d946d47a2
-SHA256: 427c7dfc8a62ffdb159ba551bfc90f5a50f766cb708256280384b79a77ec1fe2
-SHA512: 439a6863aaed6200ab2b5285107dd69c9039a5eac00a02a38488881c31d2b3fe5ec1be4377b008d006f7fd3b8bb10586eb46ef9e6d867639583b7f6d43d8aeed
+Size: 188620
+MD5Sum: 2de5fe3d3d87548856d2152a3e5d28d0
+SHA1: 55aa75ee4d400744a637e677c6f792d506913f59
+SHA256: d424680826b411ae64a8d2adbe608c25b99316c6db84b20ab0c3900c9ffae686
+SHA512: 776fa6009903234674ef284568d99a118857e673a377e36a00e9a5d47116026052783e5b66dec069b67af929bede4c6698894fbc1056c759d7eb022962bc4d8c
 
 Package: sdat2img
 Architecture: arm
@@ -36,9 +51,24 @@ Version: 1.2
 Homepage: https://github.com/xpirt/sdat2img
 Description: Convert sparse Android data image to filesystem ext4 image
 Filename: dists/stable/main/binary-arm/sdat2img_1.2_arm.deb
-Size: 3600
-MD5Sum: a50ec52d46f88bd6280f256fe918d367
-SHA1: 9e2243761e8c59f447917be2983eafd1142d35c1
-SHA256: 6d7fd18e92544670cb4e29b2d18af08d0f0fad2c320b333a62d46dfd3f1c6e80
-SHA512: a9129411946a59796f997c5e6927b727e3d56602900f4e57913bbd350c9623cf2c2bdd919486484a501aa5cb4587e338a4ffd292526b94046c55c929419a094d
+Size: 3584
+MD5Sum: 0e0d1cef2493639814b7ff74e3047a8d
+SHA1: c3ccc5acc75e4d5e05becf47edd1d39695efa774
+SHA256: f28c12679604ba67567dfb753d34a3defb2bd32d5e6c4c5866178f4c97061560
+SHA512: f17d9cae390e886b29b6a24f177dba7bcbc491f16c8bb594969e8037e8a476ecd7fdd6089868861ea688edd6b5fdd5fa589b22392a818f1e5481834d18818574
+
+Package: shc
+Architecture: arm
+Installed-Size: 406
+Depends: clang
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 4.0.2
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-arm/shc_4.0.2_arm.deb
+Size: 191228
+MD5Sum: a8aadbf2da98ca2f184241f1e97bfe36
+SHA1: 24946a57799775bd7c795fe5e2776ffad9ac85de
+SHA256: 5b9afb5235252201d19ee4afa7f2828315561d1716e017f492935926344ae16b
+SHA512: 82dd13ecf12804fe675baf3c290d37c172b2cfdcc9fc29c237e5374bde17529006978c61930fc4e8986657df9f0dd20b064c02242b6b210d671dd6b86b0e3119
 

@@ -1,3 +1,18 @@
+Package: heroku
+Architecture: aarch64
+Installed-Size: 58948
+Depends: nodejs
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 7.26.2
+Homepage: https://devcenter.heroku.com/articles/heroku-cli
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
+Filename: dists/stable/main/binary-aarch64/heroku_7.26.2_aarch64.deb
+Size: 7035792
+MD5Sum: 334b20735a69e5575694c3b15f5a2e58
+SHA1: d97e914ef50203e772b7a07deb02e60fe93b9bee
+SHA256: 55f1dc4cdbeeb3aa30ce04dcfba73640003990641ec74195c13e955656693197
+SHA512: 2723c4e4ecefe6538750d17d471e924f3f7567faba8e092238f152d7e05e63db86cf5f523bafdf1cd77b7b56cd8c71245901e8ab929eef6425006d5df6a9d6bf
+
 Package: img2sdat
 Architecture: aarch64
 Installed-Size: 149
@@ -7,25 +22,25 @@ Version: 1.7
 Homepage: https://github.com/xpirt/img2sdat
 Description: Convert sparse EXT4 image to sparse Android data image
 Filename: dists/stable/main/binary-aarch64/img2sdat_1.7_aarch64.deb
-Size: 34772
-MD5Sum: 298d50d670a997a0ee4d64cef10981da
-SHA1: 836dac10d6d4c1a321b91b90cfed1f6beebcb458
-SHA256: 84584fe1cfb6037f714f9bef1ae8c47e5704d532c4b0eba4d30c5859617ae0ff
-SHA512: 252f47581d4c26d20b6aa58f79bc69f074f9d9fa68cd0c67fbc2b353a031c81de365afb1b2fac85b0a80a68467a4f41c92295837fd83e55f5e04e42e3f8538bb
+Size: 34768
+MD5Sum: ff57613398bc2a1c43524f77782e2717
+SHA1: 710733b3bc700c3d968796845b52754c3b284c42
+SHA256: bffdd1a17e9517d1b587ce7b693da044ce6db0fe49cba7fecc3ff003707708eb
+SHA512: d1fc15682d7a3e384db76027011e1e00142ccce6e5e7c126731502470173439c35c8961f3bb894dd6c1a3b2768e026453561d4e5e11dfc07c2a0a8d819746b91
 
 Package: lolcat-c
 Architecture: aarch64
-Installed-Size: 12
+Installed-Size: 959
 Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-aarch64/lolcat-c_1.0_aarch64.deb
-Size: 892
-MD5Sum: 360f2fd58829af3a3358732905f03ec9
-SHA1: 4f1813f06b569f588f619cd4e2e2e0f1ae2a3169
-SHA256: 14accaeae1a61ac342229b17df8c3de345c0b5224064b8b4b68f7faebe102daa
-SHA512: 64d8c2c70390a0ef723834301f6e36e991c1857924a72ee149c4c1290c510f7bbff31567b26df13f93f452c5b4e5fb829856069629de7b91694d428c8059a2a4
+Size: 197264
+MD5Sum: c8816f565cf7b6141819289f70fec69d
+SHA1: e684dc557c35e04fe81e503f2d67b74f12197129
+SHA256: 75cdd414441a8ca1b048e6d526fd5be895afbe00aeedbe317dad6532cf37af7f
+SHA512: 3e4a19f4a6c2b9151d20679bb315ffed65fc9e472696f16669c3a62b93cd576fd792aaa2c41c60135deebd12cb5795abb69a84437ca1d8bc7a8edf6d33c26681
 
 Package: sdat2img
 Architecture: aarch64
@@ -36,9 +51,24 @@ Version: 1.2
 Homepage: https://github.com/xpirt/sdat2img
 Description: Convert sparse Android data image to filesystem ext4 image
 Filename: dists/stable/main/binary-aarch64/sdat2img_1.2_aarch64.deb
-Size: 3604
-MD5Sum: 07e85de39f2804cb987622a9a697f28b
-SHA1: d0c3b6d2272a2e16add179ddd01edf13d923d175
-SHA256: deb116060e3a529e0692ec09e5e65d58c0504c4fc988aa6d8c08c462dc702fb1
-SHA512: 2a353312da078c500aa1abfe98cb9d4d23237f5ba715b06f99d192b1c8380e6ba0d529fd0b2960308da9a478a7982579d785175b71a73d080c8968c064169a55
+Size: 3588
+MD5Sum: 1933150d5c869de57109703efaf58045
+SHA1: 385ab9f85db7e82623cae72687d411ea85634a90
+SHA256: ba1265abad1fbcdcea6f8cef67276607b22ca1c7fd72d8339fb14c0ba78cc294
+SHA512: 0751c158b487011ffdddb1aa1eb86616445aa3d9f4704ee5864c039e37bbc003b3c87ad28599e978b333c9ed3216c963c0e4a1730b8e040ce6a95029e351c899
+
+Package: shc
+Architecture: aarch64
+Installed-Size: 570
+Depends: clang
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 4.0.2
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-aarch64/shc_4.0.2_aarch64.deb
+Size: 186800
+MD5Sum: d27747c34e9ada5f8e765d5c665cef08
+SHA1: 602a212d6a8722294ce7dd194d40116fec7b1848
+SHA256: 7b51854d167e1f3162d09dd4f11ae1cdc13cd25b83c86619d2467c0b7e5418c2
+SHA512: 47f00eb6f0424bdafe13f0a95185ecf66b1136815885c39674a07a918f9a5c0639a784cd1d8c8b38e8bf5b5061f52211766efe691888631baffe79a56caa25a0
 
