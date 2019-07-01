@@ -17999,3 +17999,5 @@ data/data/com.termux/files/usr/share/sdat2img/README.md                         
 data/data/com.termux/files/usr/share/sdat2img/sdat2img.py                        sdat2img
 data/data/com.termux/files/usr/bin/shc                                           shc
 data/data/com.termux/files/usr/share/man/man1/shc.1                              shc
+data/data/com.termux/files/usr/bin/trans                                         translate-shell
+data/data/com.termux/files/usr/share/man/man1/trans.1                            translate-shell

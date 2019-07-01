@@ -86,3 +86,18 @@ SHA1: 24946a57799775bd7c795fe5e2776ffad9ac85de
 SHA256: 5b9afb5235252201d19ee4afa7f2828315561d1716e017f492935926344ae16b
 SHA512: 82dd13ecf12804fe675baf3c290d37c172b2cfdcc9fc29c237e5374bde17529006978c61930fc4e8986657df9f0dd20b064c02242b6b210d671dd6b86b0e3119
 
+Package: translate-shell
+Architecture: arm
+Installed-Size: 226
+Depends: curl, fribidi, gawk, mpv, less, rlwrap, hunspell
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.9.6.10
+Homepage: https://github.com/soimort/translate-shell
+Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+Filename: dists/stable/main/binary-arm/translate-shell_0.9.6.10_arm.deb
+Size: 35080
+MD5Sum: cc2e2c122a660fa6ec7c2c804b686d95
+SHA1: 35f3ba777217ee473e602ef148035704f3992586
+SHA256: fbba5e36c7870c43be9b0bcf6dde66813903dfb74d38274ad9beb3c6caff8e3d
+SHA512: 906d5f93b7779d5a7a3e584eb149344d5dc718985915047fbb76b08d2ad3298a7c65935be39f690f1ce41de128cc36c84f713b5d08c953a0e4353bf6d3dbaed9
+
