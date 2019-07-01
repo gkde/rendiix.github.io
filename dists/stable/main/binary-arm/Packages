@@ -1,3 +1,17 @@
+Package: ext4fs-tools
+Architecture: arm
+Installed-Size: 855
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 8.1.0
+Homepage: https://github.com/rendiix/make_ext4fs
+Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
+Filename: dists/stable/main/binary-arm/ext4fs-tools_8.1.0_arm.deb
+Size: 213336
+MD5Sum: 020c775cf9287a243ca61443209df57d
+SHA1: 5f8315ebe88e334680cb9f9dff3c6c8d1d956fb6
+SHA256: c562b3c7aeb5ad74073e2cb3f6f36c4ed60808034202dd9cd932e8d6e59aeb0a
+SHA512: 5a66ea60385a5ec8c7f65e6b30a93231293b98c1d740786bfe2dfa1e0449f4e6cc76f5c18127f42ffa7b65cd7c53a1a94c12444192d0710b71e25bfa07b20449
+
 Package: heroku
 Architecture: arm
 Installed-Size: 58948

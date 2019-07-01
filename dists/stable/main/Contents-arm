@@ -1,3 +1,6 @@
+data/data/com.termux/files/usr/bin/img2simg                                      ext4fs-tools
+data/data/com.termux/files/usr/bin/make_ext4fs                                   ext4fs-tools
+data/data/com.termux/files/usr/bin/simg2img                                      ext4fs-tools
 data/data/com.termux/files/usr/bin/heroku                                        heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/CHANGELOG.md              heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/LICENSE                   heroku

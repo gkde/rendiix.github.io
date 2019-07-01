@@ -2083,6 +2083,9 @@ data/data/com.termux/files/usr/libexec/gcc/arm-linux-androideabi/4.9.x/libfuncti
 data/data/com.termux/files/usr/libexec/gcc/arm-linux-androideabi/4.9.x/libfunction_reordering_plugin.so.0 arm-cross-toolchain
 data/data/com.termux/files/usr/libexec/gcc/arm-linux-androideabi/4.9.x/liblto_plugin.so arm-cross-toolchain
 data/data/com.termux/files/usr/libexec/gcc/arm-linux-androideabi/4.9.x/liblto_plugin.so.0 arm-cross-toolchain
+data/data/com.termux/files/usr/bin/img2simg                                      ext4fs-tools
+data/data/com.termux/files/usr/bin/make_ext4fs                                   ext4fs-tools
+data/data/com.termux/files/usr/bin/simg2img                                      ext4fs-tools
 data/data/com.termux/files/usr/bin/heroku                                        heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/CHANGELOG.md              heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/LICENSE                   heroku

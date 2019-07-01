@@ -12,6 +12,20 @@ SHA1: 4e1a96d20e064bc3d4871c34c26d4f8ad707f65c
 SHA256: b21492fc99188321c8a8731a30411e976f24d276f271490ddaad05e5084f45b1
 SHA512: 44ef8efe4e1caa540f5ad1cdb9abaf1ea11faf7c575a7382f28213139471904181a493f406f80d6a28677d03be66be312d35f8c03802c0ec171aa25adba06b7c
 
+Package: ext4fs-tools
+Architecture: aarch64
+Installed-Size: 1258
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 8.1.0
+Homepage: https://github.com/rendiix/make_ext4fs
+Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
+Filename: dists/stable/main/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
+Size: 230816
+MD5Sum: 9a50318adb1ed46643ce1447785ac876
+SHA1: 58a520349b08bfd794684396d4847d9e1ccea49b
+SHA256: 9f09250fbf74c35e9bcc14f4ae943d314ab05c4142707a4a9219064efd5192af
+SHA512: e2c19b5e289313fba6e31c5665a0a2c4978033cef1befbb55bcd948d773bbaa7092b349daa1ed5ee50443510ae2ed4683ba8d8e48dc8c88462bdbeb5654a4087
+
 Package: heroku
 Architecture: aarch64
 Installed-Size: 58948
