@@ -36,11 +36,11 @@ Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-arm/lolcat-c_1.0_arm.deb
-Size: 188620
-MD5Sum: 2de5fe3d3d87548856d2152a3e5d28d0
-SHA1: 55aa75ee4d400744a637e677c6f792d506913f59
-SHA256: d424680826b411ae64a8d2adbe608c25b99316c6db84b20ab0c3900c9ffae686
-SHA512: 776fa6009903234674ef284568d99a118857e673a377e36a00e9a5d47116026052783e5b66dec069b67af929bede4c6698894fbc1056c759d7eb022962bc4d8c
+Size: 188524
+MD5Sum: 11b3d0a87d0e8e782251ecb081c19dd6
+SHA1: d227c03f6543cd44c0edcf170d59bc298e5828ba
+SHA256: b9b0ad0243a933a5ee84c286cabcc543816323fb2796bb3beae2e2b14d1b7028
+SHA512: 7c193f1641ad17cf2cdca40052b43db7342a1a9e766d461310fb0f2e78af869121b377c0106f8a55a00aec3cdffdc169d638669ac6d564d6cc1c92aeeeb5f939
 
 Package: sdat2img
 Architecture: arm

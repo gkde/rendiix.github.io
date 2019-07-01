@@ -1,3 +1,17 @@
+Package: arm-cross-toolchain
+Architecture: aarch64
+Installed-Size: 225616
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 17-b
+Homepage: https://github.com/Lzhiyong/termux-ndk
+Description: arm-linux-androideabi croos toolchains, including sysroot Android api level 28
+Filename: dists/stable/main/binary-aarch64/arm-cross-toolchain_17-b_aarch64.deb
+Size: 40959500
+MD5Sum: 15e16fade4cf050863a9789f036486de
+SHA1: 4e1a96d20e064bc3d4871c34c26d4f8ad707f65c
+SHA256: b21492fc99188321c8a8731a30411e976f24d276f271490ddaad05e5084f45b1
+SHA512: 44ef8efe4e1caa540f5ad1cdb9abaf1ea11faf7c575a7382f28213139471904181a493f406f80d6a28677d03be66be312d35f8c03802c0ec171aa25adba06b7c
+
 Package: heroku
 Architecture: aarch64
 Installed-Size: 58948
