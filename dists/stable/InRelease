@@ -3,10 +3,10 @@ Hash: SHA256
 
 Codename: termux
 Version: 1
-Architectures: aarch64 arm
+Architectures: arm aarch64
 Description: stable repository
 Suite: stable
-Date: Mon, 01 Jul 2019 07:40:35 UTC
+Date: Mon, 01 Jul 2019 07:52:58 UTC
 MD5Sum:
  a5b43f25c61f848df241de4908ed97e9 4132 main/binary-aarch64/Packages
  6e9e3e4750790fb79a0371f131930ee1 1948 main/binary-aarch64/Packages.xz
@@ -45,12 +45,12 @@ SHA512:
  b09a63097bb598b037ef983815783df3ab54f52b448765c9b955bf1735ed19b7541c77e4148eb3b51d932da744a8a11217d88a63b19d57c6273273c8cc1ba10a 78084 main/Contents-arm.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAl0ZuPcACgkQc5qL4q9N
-bns2FAgAqwB6t9NM8Ws4Wo/ztnb9uyI8mwWSPepypem3P+SSoKA62TOeoeSXF1YD
-+MBk3+5HcUlauK54y+WPrbmipgDoXNFibJkfrDhJG1N0aUqlYnfo7B/ElaXqsrIX
-PCXeG/4N696QF+xlODHP9XWXaUDJf0EfrbEkCBksLo5nKe/A18Ccsst8ZzbdfKMd
-p5/BhyiYrVcEnbopoGTqkRgzuTb73AMVSWmakhCJwtIuWUatuK0CEuOl1m4Tm596
-ol/C4+LaOWJwS5SpJ10vRSSBsWR/EuAyQ2lV6kIWnD3xbe6tff7XIB4yBWSWlMDy
-d8/3YSgrw538NODPbjsvc03tbAsZdw==
-=2QRX
+iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAl0Zu98ACgkQc5qL4q9N
+bnv8KggAj77gykJq5W0xXmjnv0I9IGAzem2pR8B/ni1m5YrR1vf4HtedcQM0fjKx
+azxHaPG+ZBAo3a+QvqMsiEIyMc1bnLKBelC3ej5giE3OJHCmOODlSW+KBjPX8eNG
+ztqsVfY2VZu3nF4d2+gha9W5oBjMcNxqDbw8vZZzL/rSBE3n3qiNtAFE/fZ9xSLj
+4GtJUTKCn9FmE5zldNVYxo6uBbrTSbRPmgX8/hoCHn2vznAZPVadA2VqgmSe4ZWD
+KiphcyLOjZtHkfBkMPlb0FNKEijPoc3UkH5+hI3XX/lddgIqX9kbVJt3pbjFHxJF
+pO5Urg0MLCGtwDt/VQUsHtmAfUV/rQ==
+=PSRZ
 -----END PGP SIGNATURE-----
