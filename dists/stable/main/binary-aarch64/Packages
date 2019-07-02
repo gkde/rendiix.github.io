@@ -70,6 +70,20 @@ SHA1: e684dc557c35e04fe81e503f2d67b74f12197129
 SHA256: 75cdd414441a8ca1b048e6d526fd5be895afbe00aeedbe317dad6532cf37af7f
 SHA512: 3e4a19f4a6c2b9151d20679bb315ffed65fc9e472696f16669c3a62b93cd576fd792aaa2c41c60135deebd12cb5795abb69a84437ca1d8bc7a8edf6d33c26681
 
+Package: mkbootimg
+Architecture: aarch64
+Installed-Size: 671
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 2019.04.13
+Homepage: https://github.com/osm0sis/mkbootimg
+Description: mkbootimg + unpackbootimg, forked and updated
+Filename: dists/stable/main/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
+Size: 141184
+MD5Sum: afe9a5cdebcf8268f42270cec09e677d
+SHA1: 42f7b6c8a62b192c27fa044f3db34bb2d3d34e06
+SHA256: 14e9d7ba759e5e4e239dd36dad7f0cbd69787958b1959a48f5a4e06b9daa6e04
+SHA512: 4e42ea52bed0368ae91075fa337b72448c30ebb3828aae6770cc85525cf113c886c4a91162e72a750a27af05e78455380bcde44b18705cffa17127f19a91ad00
+
 Package: sdat2img
 Architecture: aarch64
 Installed-Size: 27

@@ -33,3 +33,4 @@ user@termux:~$ bash install-repo.sh
 | [sdat2img](https://github.com/xpirt/sdat2img) | 1.2 | Convert sparse Android data image to filesystem ext4 image |
 | [ext4fs-tools](https://github.com/rendiix/make_ext4fs) | 8.1.0 | Tools for generating android ext4 img. make_ext4fs img2simg simg2img. |
 | [translate-shell](https://github.com/soimort/translate-shell) | 0.9.6.10 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. |
+| [mkbootimg](https://github.com/osm0sis/mkbootimg) | 2019.04.13 | mkbootimg + unpackbootimg, forked and updated |

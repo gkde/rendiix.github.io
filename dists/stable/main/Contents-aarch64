@@ -20079,6 +20079,8 @@ data/data/com.termux/files/usr/share/img2sdat/sparse_img.py                     
 data/data/com.termux/files/usr/share/img2sdat/sparse_img.pyc                     img2sdat
 data/data/com.termux/files/usr/bin/censor                                        lolcat-c
 data/data/com.termux/files/usr/bin/lolcat                                        lolcat-c
+data/data/com.termux/files/usr/bin/mkbootimg                                     mkbootimg
+data/data/com.termux/files/usr/bin/unpackbootimg{                                mkbootimg
 data/data/com.termux/files/usr/bin/sdat2img                                      sdat2img
 data/data/com.termux/files/usr/share/sdat2img/README.md                          sdat2img
 data/data/com.termux/files/usr/share/sdat2img/sdat2img.py                        sdat2img
