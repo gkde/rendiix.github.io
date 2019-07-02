@@ -14,7 +14,8 @@
 [![Discord](https://img.shields.io/discord/404576842419273729.svg?label=join%20discord&logo=discord)](https://discord.gg/5PmKhrc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rendiix.svg?color=green&label=follow&logo=twitter&style=social)](https://twitter.com/rendiix)
 
-#### Table of contents| Package | Version | Descriptions |
+#### Table of contents
+| Package | Version | Descriptions |
 | --- | :---: | --- |
 | [lolcat-c](https://github.com/jaseg/lolcat) | 1.0 | A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat |
 | [shc](https://github.com/neurobin/shc) | 4.0.2 | A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable. |
