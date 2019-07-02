@@ -14,6 +14,17 @@
 [![Discord](https://img.shields.io/discord/404576842419273729.svg?label=join%20discord&logo=discord)](https://discord.gg/5PmKhrc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rendiix.svg?color=green&label=follow&logo=twitter&style=social)](https://twitter.com/rendiix)
 
+#### Subscribe to this repository
+
+#share #tools #heroku-cli
+
+``` console
+user@termux:~$ apt-get update && apt-get upgrade -y
+user@termux:~$ apt-get install wget
+user@termux:~$ wget https://rendiix.github.io/install-repo.sh
+user@termux:~$ bash install-repo.sh
+``` 
+
 #### Table of contents
 | Package | Version | Descriptions |
 | --- | :---: | --- |
