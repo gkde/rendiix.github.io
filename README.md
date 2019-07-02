@@ -16,8 +16,6 @@
 
 #### Subscribe to this repository
 
-#share #tools #heroku-cli
-
 ``` console
 user@termux:~$ apt-get update && apt-get upgrade -y
 user@termux:~$ apt-get install wget
