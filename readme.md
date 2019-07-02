@@ -14,3 +14,13 @@
 [![Discord](https://img.shields.io/discord/404576842419273729.svg?label=join%20discord&logo=discord)](https://discord.gg/5PmKhrc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rendiix.svg?color=green&label=follow&logo=twitter&style=social)](https://twitter.com/rendiix)
 
+#### List of package
+```
+ - lolcat-c, version: 1.0, [Link homepage](https://github.com/jaseg/lolcat)
+ - shc, version: 4.0.2, [Link homepage](https://github.com/neurobin/shc)
+ - heroku, version: 7.26.2, [Link homepage](https://devcenter.heroku.com/articles/heroku-cli)
+ - img2sdat, version: 1.7, [Link homepage](https://github.com/xpirt/img2sdat)
+ - sdat2img, version: 1.2, [Link homepage](https://github.com/xpirt/sdat2img)
+ - ext4fs-tools, version: 8.1.0, [Link homepage](https://github.com/rendiix/make_ext4fs)
+ - translate-shell, version: 0.9.6.10, [Link homepage](https://github.com/soimort/translate-shell)
+```
