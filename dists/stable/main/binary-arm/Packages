@@ -64,11 +64,11 @@ Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
 Filename: dists/stable/main/binary-arm/mkbootimg_2019.04.13_arm.deb
-Size: 144796
-MD5Sum: c35470da4a1453c7e2d97e73ff057607
-SHA1: cdca1f8bb2c7a0802b6a7385a63985025981dd76
-SHA256: 9f15caed949e86bb09a46e95ab533b647031432db9176b768b17f691e465ca0c
-SHA512: 339728893b8ac6bf41fb71a9493c9bc4dbb2a0040f0f6c9dcf1ace881fd9138d4d0406805cc0d5a814d8406d74d44d8d5cfe9c35838d97e4a00f3e580430ad27
+Size: 144824
+MD5Sum: 74cbcb4c638388405b19110573b55f6e
+SHA1: f89f7394d3d7ed263d2417a43a67169c94041ea1
+SHA256: a276288762e67f9bd0a1f05bf14d25a8ed2d52464df2a62a97a0436c9fcf53a8
+SHA512: 5e12b4c5012906c8345e328af2030069d30b654e5e8af22f71e2149002079b2b49572bef79dbca1b9771e3503f5b0ec6af91e7e0cd6a3a3095fd42c66bae49e0
 
 Package: sdat2img
 Architecture: arm
