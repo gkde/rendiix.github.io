@@ -7,5 +7,3 @@ data/data/com.termux/files/usr/bin/mkbootimg                                    
 data/data/com.termux/files/usr/bin/unpackbootimg                                 mkbootimg
 data/data/com.termux/files/usr/bin/shc                                           shc
 data/data/com.termux/files/usr/share/man/man1/shc.1                              shc
-data/data/com.termux/files/usr/bin/shc                                           shc
-data/data/com.termux/files/usr/share/man/man1/shc.1                              shc

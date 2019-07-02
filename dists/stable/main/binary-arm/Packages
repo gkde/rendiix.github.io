@@ -42,21 +42,6 @@ SHA512: 498d4e1c05689b5688c98d27661bc5bfe89a32e05c36117e72d409c03e89a5c7a0207dfd
 
 Package: shc
 Architecture: arm
-Installed-Size: 406
-Depends: clang
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 4.0.2
-Homepage: https://github.com/neurobin/shc
-Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
-Filename: dists/stable/main/binary-arm/shc_4.0.2_arm.deb
-Size: 191200
-MD5Sum: 6253c0b3de677792fb8a0e51c40bf366
-SHA1: 82a4f93fe5db87e9c17bdbd41428a8b7ac47632f
-SHA256: dbff4556619bd202aca9c2a7f44dfadaec2afb4b4e79bdebfe8e1e3bd458e53d
-SHA512: 0d30c083975b17826518f4e8170ca380724698a6d88de30148f6566136ea136278f92b0beb678b55a1395d46b704bc1efb310324318fefa6fe0728d2afacb613
-
-Package: shc
-Architecture: arm
 Installed-Size: 410
 Depends: clang
 Maintainer: Rendiix <vanzdobz@gmail.com>
