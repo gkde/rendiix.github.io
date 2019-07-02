@@ -20,55 +20,25 @@ Version: 8.1.0
 Homepage: https://github.com/rendiix/make_ext4fs
 Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
 Filename: dists/stable/main/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
-Size: 230816
-MD5Sum: 9a50318adb1ed46643ce1447785ac876
-SHA1: 58a520349b08bfd794684396d4847d9e1ccea49b
-SHA256: 9f09250fbf74c35e9bcc14f4ae943d314ab05c4142707a4a9219064efd5192af
-SHA512: e2c19b5e289313fba6e31c5665a0a2c4978033cef1befbb55bcd948d773bbaa7092b349daa1ed5ee50443510ae2ed4683ba8d8e48dc8c88462bdbeb5654a4087
-
-Package: heroku
-Architecture: aarch64
-Installed-Size: 58948
-Depends: nodejs
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 7.26.2
-Homepage: https://devcenter.heroku.com/articles/heroku-cli
-Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
-Filename: dists/stable/main/binary-aarch64/heroku_7.26.2_aarch64.deb
-Size: 7038876
-MD5Sum: cee38ab3ff7637aa1d92d71fae59606e
-SHA1: 90b9ad00ee49827bca6558bbbb1401b149be12c5
-SHA256: c32ec9c2b0771523eb29b352d9ec91ad6834fb29f55438ed266b90136b62e3cb
-SHA512: 941a8b0500d8f620d132a72f5a2b19263b30901ff0413e22b127cf498b992d6d4ea5cfac68e9d986b36f810566fa10cf2d44efaf8a02f6f8dbf50232a11d2d5d
-
-Package: img2sdat
-Architecture: aarch64
-Installed-Size: 149
-Depends: python
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 1.7
-Homepage: https://github.com/xpirt/img2sdat
-Description: Convert sparse EXT4 image to sparse Android data image
-Filename: dists/stable/main/binary-aarch64/img2sdat_1.7_aarch64.deb
-Size: 34768
-MD5Sum: ff57613398bc2a1c43524f77782e2717
-SHA1: 710733b3bc700c3d968796845b52754c3b284c42
-SHA256: bffdd1a17e9517d1b587ce7b693da044ce6db0fe49cba7fecc3ff003707708eb
-SHA512: d1fc15682d7a3e384db76027011e1e00142ccce6e5e7c126731502470173439c35c8961f3bb894dd6c1a3b2768e026453561d4e5e11dfc07c2a0a8d819746b91
+Size: 230584
+MD5Sum: e3179c79b68e159008962995aac56277
+SHA1: 01202e94527509594327279cb877c1313b57f5df
+SHA256: 057a42e982865248e378c25518ded756be1e49ab492b7fcaaf6e58f42811c3fa
+SHA512: 4ed4fdc5078c1f8a4714614d7494d06ac7f0608c9f1d51ea2174e29310f0becd36e8b4ce9711bc6c19ef8c509359936903226cb9777b449a27691fcf414c29e3
 
 Package: lolcat-c
 Architecture: aarch64
-Installed-Size: 959
+Installed-Size: 939
 Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-aarch64/lolcat-c_1.0_aarch64.deb
-Size: 197264
-MD5Sum: c8816f565cf7b6141819289f70fec69d
-SHA1: e684dc557c35e04fe81e503f2d67b74f12197129
-SHA256: 75cdd414441a8ca1b048e6d526fd5be895afbe00aeedbe317dad6532cf37af7f
-SHA512: 3e4a19f4a6c2b9151d20679bb315ffed65fc9e472696f16669c3a62b93cd576fd792aaa2c41c60135deebd12cb5795abb69a84437ca1d8bc7a8edf6d33c26681
+Size: 193092
+MD5Sum: 13c2c12d619e3dd24ea5abf7504caca4
+SHA1: 95b76fb22f6f12473a56fd20cf2fa06ac4a1f06d
+SHA256: 3de219ca567376aac2c5450ada7c48d78d1ab1194003b4fd4113d513024f5002
+SHA512: 9ac40898d64c154db7297be8502ff5612c3980bf1d6f88bbf115a9597c7b2aef0a4073a436928b340d9e192bb4e339bdf327497ece7d58a753f52ee119787452
 
 Package: mkbootimg
 Architecture: aarch64
@@ -78,54 +48,24 @@ Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
 Filename: dists/stable/main/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
-Size: 141228
-MD5Sum: b09b38c894515cebbc73c21578735da2
-SHA1: d99ebeca688ba6c0d3036575357195ac07110106
-SHA256: 51bb312e325ed5d2872b4d9286dd9b25e4f5f1cb7b44fc66aa4b8cc5a933d34e
-SHA512: 53e301e4abe90a2e16a9168b917251f7dc028ac044594ba3ce5113e2d9f41652d13f9fb68678693ec2dd60955163772346ce497a352c8e94522c960cf59e7b5f
-
-Package: sdat2img
-Architecture: aarch64
-Installed-Size: 27
-Depends: python
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 1.2
-Homepage: https://github.com/xpirt/sdat2img
-Description: Convert sparse Android data image to filesystem ext4 image
-Filename: dists/stable/main/binary-aarch64/sdat2img_1.2_aarch64.deb
-Size: 3588
-MD5Sum: 1933150d5c869de57109703efaf58045
-SHA1: 385ab9f85db7e82623cae72687d411ea85634a90
-SHA256: ba1265abad1fbcdcea6f8cef67276607b22ca1c7fd72d8339fb14c0ba78cc294
-SHA512: 0751c158b487011ffdddb1aa1eb86616445aa3d9f4704ee5864c039e37bbc003b3c87ad28599e978b333c9ed3216c963c0e4a1730b8e040ce6a95029e351c899
+Size: 141156
+MD5Sum: d3c029537050317c45978bfd9a180950
+SHA1: 83fe991341464159977fe4ab783576911b622815
+SHA256: 22f1415331ecd9a302eb9ddacd6baffe31d59d1e8fb4c60d4e645509b1c38281
+SHA512: 9a0837703ad54b8efdc51213380e3d1a56166f20b1e201934cb091b1a1be52ab3f3da60ece354ea1e02af9f159cf344cce3d27a808096fc6bf8f7b55212feca1
 
 Package: shc
 Architecture: aarch64
-Installed-Size: 570
+Installed-Size: 566
 Depends: clang
 Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 4.0.2
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-aarch64/shc_4.0.2_aarch64.deb
-Size: 186800
-MD5Sum: d27747c34e9ada5f8e765d5c665cef08
-SHA1: 602a212d6a8722294ce7dd194d40116fec7b1848
-SHA256: 7b51854d167e1f3162d09dd4f11ae1cdc13cd25b83c86619d2467c0b7e5418c2
-SHA512: 47f00eb6f0424bdafe13f0a95185ecf66b1136815885c39674a07a918f9a5c0639a784cd1d8c8b38e8bf5b5061f52211766efe691888631baffe79a56caa25a0
-
-Package: translate-shell
-Architecture: aarch64
-Installed-Size: 226
-Depends: curl, fribidi, gawk, mpv, less, rlwrap, hunspell
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 0.9.6.10
-Homepage: https://github.com/soimort/translate-shell
-Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-Filename: dists/stable/main/binary-aarch64/translate-shell_0.9.6.10_aarch64.deb
-Size: 35072
-MD5Sum: 1261d04137c4875c2f26dc3de70df014
-SHA1: bc4e29cb6b16032aadee146356847d03f011a054
-SHA256: 28274d8c7306aaa1a7ad5e7ad4d86bd8eaef50d842a0645d5e6df4c36ea36036
-SHA512: d2e0fa9bf56017a2255e40caa561aa4cb63616dcdac621e3140bc59d985521f9d1c7810b319e1b00ab6cf04f4f88a361d90061e47743d69798f797f55a1c8d9d
+Size: 184640
+MD5Sum: b3e2df562a2d057a82dc476a15cd2cf4
+SHA1: a305d53c32bc3acc7fc290c84ae9e6d373d6908d
+SHA256: 98097141ee8fc48b785e9071a732f7b2860ae586a5b68a97e1200e9b3a4db6f8
+SHA512: e2b4ebb859de0bbd5a45f66d938093b7d3aadaa8c09bdeb66357d8b98d720492a06df2bd2d61304ea186935c980902e270b1d1337b90d05e4b8fcdccaed0aa1d
 

@@ -1,0 +1,60 @@
+Package: heroku
+Architecture: all
+Installed-Size: 58948
+Depends: nodejs
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 7.26.2
+Homepage: https://devcenter.heroku.com/articles/heroku-cli
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
+Filename: dists/stable/main/binary-all/heroku_7.26.2_all.deb
+Size: 7043636
+MD5Sum: 5979f05538911cff7a075b11d63b93a2
+SHA1: 1595bfd9ecb163770ff4c6e17704c9f7a881d029
+SHA256: e6ac4110e467e68c913545cd089e698c5e7a78e7a7ca3eb8958decbcb117c7d5
+SHA512: 7e01626f23026dd37b597a71de80d87f1a4a7cd7e84eeb8befb8fb72d8560462e54fe191e1c47babba7e88405438bebeb0fd4947059bc6f2d32972c960b945f0
+
+Package: img2sdat
+Architecture: all
+Installed-Size: 149
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.7
+Homepage: https://github.com/xpirt/img2sdat
+Description: Convert sparse EXT4 image to sparse Android data image
+Filename: dists/stable/main/binary-all/img2sdat_1.7_all.deb
+Size: 34748
+MD5Sum: 6441a10ae5b13c398da0c74fb43cc1c0
+SHA1: 7e8d2c59aef1dff923a4f7daf380eb89f5824c36
+SHA256: 364800a12290f2caae0291f7bc4013705c448844b912496639fc6857a4db65c1
+SHA512: 1dec9526f8bcc63b7074d51460578c9e170d207d7814a926c05026760df38889f2132c0895752f27e759c6eadc53b83ae36705d8935249278d810d95789a9dc5
+
+Package: sdat2img
+Architecture: all
+Installed-Size: 27
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.2
+Homepage: https://github.com/xpirt/sdat2img
+Description: Convert sparse Android data image to filesystem ext4 image
+Filename: dists/stable/main/binary-all/sdat2img_1.2_all.deb
+Size: 3580
+MD5Sum: f901989d43fec6cc8baa45bc266788c8
+SHA1: b7fcfe65e4ee13b1206f6a049f73c401b3c68a04
+SHA256: ac32766dff30bbfef3d9ac3bf51f3d04915705e7fb8cb65271cd1d58ce593e9e
+SHA512: 3ec119387602624564a2d4b42f6af17081ac0b18b6f0aaee5271708225c174924f1cfc96e5cc696d63f4f58374e6a2f7d9421612dca905996b4de0be38eb6c41
+
+Package: translate-shell
+Architecture: all
+Installed-Size: 226
+Depends: curl, fribidi, gawk, mpv, less, rlwrap, hunspell
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.9.6.10
+Homepage: https://github.com/soimort/translate-shell
+Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+Filename: dists/stable/main/binary-all/translate-shell_0.9.6.10_all.deb
+Size: 35076
+MD5Sum: bc7adb1e22c25491e1aa6004c5a0bdc2
+SHA1: 8567ab20cdcfcecc58dfa59b300dc7dad378df98
+SHA256: 003051ce930c23aeac7df1b239291e3163250f313c528571733e98061e4e1c9e
+SHA512: 9e96eb7dc8242765122b5de3ed7606185fb510307d66ce6e18e93e23e00e075be97ecaba1e5a602755ade56be7ebc068da2aacdb6062c0808c357ff0b49481c9
+

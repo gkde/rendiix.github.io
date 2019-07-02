@@ -6,41 +6,11 @@ Version: 8.1.0
 Homepage: https://github.com/rendiix/make_ext4fs
 Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
 Filename: dists/stable/main/binary-arm/ext4fs-tools_8.1.0_arm.deb
-Size: 213336
-MD5Sum: 020c775cf9287a243ca61443209df57d
-SHA1: 5f8315ebe88e334680cb9f9dff3c6c8d1d956fb6
-SHA256: c562b3c7aeb5ad74073e2cb3f6f36c4ed60808034202dd9cd932e8d6e59aeb0a
-SHA512: 5a66ea60385a5ec8c7f65e6b30a93231293b98c1d740786bfe2dfa1e0449f4e6cc76f5c18127f42ffa7b65cd7c53a1a94c12444192d0710b71e25bfa07b20449
-
-Package: heroku
-Architecture: arm
-Installed-Size: 58948
-Depends: nodejs
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 7.26.2
-Homepage: https://devcenter.heroku.com/articles/heroku-cli
-Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
-Filename: dists/stable/main/binary-arm/heroku_7.26.2_arm.deb
-Size: 7034652
-MD5Sum: 09ec5c6e9bdf11e41cbf19fc4e0b9135
-SHA1: 683263fa78d6551719508a4749b0fcc8085cf8f9
-SHA256: c182a40a205e02ecd35f3bff2222683da48d14228b057dd43670ab025e5b0e4e
-SHA512: 505e5760b04aa2edd16cef85b8ef87eb58159beb3cfba8d374c4f3e256532d88cd203000f2fe3153ae495c891b284e56f5f3eea71766c281226abac8fc10607b
-
-Package: img2sdat
-Architecture: arm
-Installed-Size: 149
-Depends: python
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 1.7
-Homepage: https://github.com/xpirt/img2sdat
-Description: Convert sparse EXT4 image to sparse Android data image
-Filename: dists/stable/main/binary-arm/img2sdat_1.7_arm.deb
-Size: 34760
-MD5Sum: 7f39d3a89121c27d77caed1af0c8d732
-SHA1: 63d59bba27a66bb549ef93305465c5d172dafcae
-SHA256: 96482efb4117d27a8ee7f375f0fec24347a3982223b42cb292337132089100eb
-SHA512: 4ec62fd478f5ff38bf31fd6f502e08a9d9ac8eb89c2ff1bc0541e1961d86fd9182736d6f7843ee1ec4f04a0f6019d87c972a4a6efc8084f137d50034c4a2afc8
+Size: 213692
+MD5Sum: 994f16be330bc22f060db01c63188934
+SHA1: 1d7ea91e1ddb9f2fbd3722b3584400767f5fc12d
+SHA256: 3901e95b461f86515e8d93a0f04d8d1a5e7763859863299dd6346365478438ce
+SHA512: 8d3b17f3cd7e0460cba95f653d665b299bf4c7b4da34c15b28f83a46afbb94913371c42ae4e21a1ea41770073b882436bf19287aae2431bca49f83ad36e166a6
 
 Package: lolcat-c
 Architecture: arm
@@ -50,11 +20,11 @@ Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-arm/lolcat-c_1.0_arm.deb
-Size: 188688
-MD5Sum: 1bae924820e654c27c1e2bccdd419a4a
-SHA1: 8c8f987a73807131e68bf209bb0d6fd24a13fe08
-SHA256: a9a35081b07a5addb67bb31154a2a679424859e41a5fb22d09eb124567a43172
-SHA512: dac9f8e9c86e47c0e316575e4885b3c92f5edd8aef0968ef602ac7bd9426b36d4405ce12e7db00f0e41c06a563fdb654895063e0c56b5246839dd0898401c8f1
+Size: 188584
+MD5Sum: 2bef1307e49e3bacc2a43beb5239564f
+SHA1: 393196c4e659fd222d91f1392422d5679609144f
+SHA256: 2b773950725aff6e6759b9d76b5d9552eca16697c64aab108180f39034bdd6dc
+SHA512: 1ef5d35836fce5075115df805404f90a9fe5351448c950bd9719349b92e428b708d5fa951aa7a26d1984d8a5689df3c1b8d0e77f8ea89eeeee51ed29c1a2b7ef
 
 Package: mkbootimg
 Architecture: arm
@@ -64,26 +34,11 @@ Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
 Filename: dists/stable/main/binary-arm/mkbootimg_2019.04.13_arm.deb
-Size: 144824
-MD5Sum: 74cbcb4c638388405b19110573b55f6e
-SHA1: f89f7394d3d7ed263d2417a43a67169c94041ea1
-SHA256: a276288762e67f9bd0a1f05bf14d25a8ed2d52464df2a62a97a0436c9fcf53a8
-SHA512: 5e12b4c5012906c8345e328af2030069d30b654e5e8af22f71e2149002079b2b49572bef79dbca1b9771e3503f5b0ec6af91e7e0cd6a3a3095fd42c66bae49e0
-
-Package: sdat2img
-Architecture: arm
-Installed-Size: 27
-Depends: python
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 1.2
-Homepage: https://github.com/xpirt/sdat2img
-Description: Convert sparse Android data image to filesystem ext4 image
-Filename: dists/stable/main/binary-arm/sdat2img_1.2_arm.deb
-Size: 3584
-MD5Sum: 0e0d1cef2493639814b7ff74e3047a8d
-SHA1: c3ccc5acc75e4d5e05becf47edd1d39695efa774
-SHA256: f28c12679604ba67567dfb753d34a3defb2bd32d5e6c4c5866178f4c97061560
-SHA512: f17d9cae390e886b29b6a24f177dba7bcbc491f16c8bb594969e8037e8a476ecd7fdd6089868861ea688edd6b5fdd5fa589b22392a818f1e5481834d18818574
+Size: 144848
+MD5Sum: 3e4140b06f529530790c9816455a05eb
+SHA1: 45c9455a6321184f7ebe2ba9ce24a326e5271bad
+SHA256: 89ef0aba5549231a414d790cfa5d249acbafdb3065ad631f334b7d790323fe0b
+SHA512: fdec57a5989fb4be08d6ab29624ff9f816218e9aa94df090916e89cc6744e98c7c6f1f3b5dacad19f9016b46e982ffdb07ae93fe2976651e7659f6853de2750d
 
 Package: shc
 Architecture: arm
@@ -94,24 +49,9 @@ Version: 4.0.2
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-arm/shc_4.0.2_arm.deb
-Size: 191228
-MD5Sum: a8aadbf2da98ca2f184241f1e97bfe36
-SHA1: 24946a57799775bd7c795fe5e2776ffad9ac85de
-SHA256: 5b9afb5235252201d19ee4afa7f2828315561d1716e017f492935926344ae16b
-SHA512: 82dd13ecf12804fe675baf3c290d37c172b2cfdcc9fc29c237e5374bde17529006978c61930fc4e8986657df9f0dd20b064c02242b6b210d671dd6b86b0e3119
-
-Package: translate-shell
-Architecture: arm
-Installed-Size: 226
-Depends: curl, fribidi, gawk, mpv, less, rlwrap, hunspell
-Maintainer: Rendiix <vanzdobz@gmail.com>
-Version: 0.9.6.10
-Homepage: https://github.com/soimort/translate-shell
-Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-Filename: dists/stable/main/binary-arm/translate-shell_0.9.6.10_arm.deb
-Size: 35080
-MD5Sum: cc2e2c122a660fa6ec7c2c804b686d95
-SHA1: 35f3ba777217ee473e602ef148035704f3992586
-SHA256: fbba5e36c7870c43be9b0bcf6dde66813903dfb74d38274ad9beb3c6caff8e3d
-SHA512: 906d5f93b7779d5a7a3e584eb149344d5dc718985915047fbb76b08d2ad3298a7c65935be39f690f1ce41de128cc36c84f713b5d08c953a0e4353bf6d3dbaed9
+Size: 191128
+MD5Sum: 4417d53bc73c0b1128078726efc6e18e
+SHA1: 4524f43729dd0c3bea547979be5d04bd925c72c5
+SHA256: 40d6b7a66c14034737ca9eb0e30cfd25f769b7bcd9c46a36b1cb1118430b56e7
+SHA512: 987a83d6ff661433ecf90ba71c1958569ed1d05256d14d1c68412a969fc932d51895b79c93945b4c10935490234788c6a6107fc5a86c75017ff7b9e80e43982d
 
