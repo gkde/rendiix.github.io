@@ -6,25 +6,25 @@ Version: 8.1.0
 Homepage: https://github.com/rendiix/make_ext4fs
 Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
 Filename: dists/stable/main/binary-arm/ext4fs-tools_8.1.0_arm.deb
-Size: 213692
-MD5Sum: 994f16be330bc22f060db01c63188934
-SHA1: 1d7ea91e1ddb9f2fbd3722b3584400767f5fc12d
-SHA256: 3901e95b461f86515e8d93a0f04d8d1a5e7763859863299dd6346365478438ce
-SHA512: 8d3b17f3cd7e0460cba95f653d665b299bf4c7b4da34c15b28f83a46afbb94913371c42ae4e21a1ea41770073b882436bf19287aae2431bca49f83ad36e166a6
+Size: 213704
+MD5Sum: c5d2e714e34df80c97135a941575e1c8
+SHA1: 689a8f1e87ab9195b9a708a51b10e1386f482822
+SHA256: 7df83bcec4fcee6b885af00651b757adc8c4a61c3a4ea0ccb8ec0a0713d4789d
+SHA512: 00fcbd383eeed4d19e405cca543baca1ea64f3bf758f72d6a6eacf89c672ae5c24df177f0d170a6c86781daea09c1847631d450bb150df6b8f00ea192a39faac
 
 Package: lolcat-c
 Architecture: arm
-Installed-Size: 645
+Installed-Size: 790
 Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-arm/lolcat-c_1.0_arm.deb
-Size: 188584
-MD5Sum: 2bef1307e49e3bacc2a43beb5239564f
-SHA1: 393196c4e659fd222d91f1392422d5679609144f
-SHA256: 2b773950725aff6e6759b9d76b5d9552eca16697c64aab108180f39034bdd6dc
-SHA512: 1ef5d35836fce5075115df805404f90a9fe5351448c950bd9719349b92e428b708d5fa951aa7a26d1984d8a5689df3c1b8d0e77f8ea89eeeee51ed29c1a2b7ef
+Size: 309444
+MD5Sum: 963cab8625a202cc98824ea0131bb376
+SHA1: e06a48b7f786c6acba69c4dbd9324ccbda3abf2b
+SHA256: 77edde28937e5989c8a5922be3c20ababbc1898e6627f5b427170024a5de36a4
+SHA512: b22ed82ea273ccb999fc05fe73c3bd1046f68874af1e5b6cf0836a73139ef59e7d68822588ed77d7415c0b9661142fc2c8ede7e699820b69e3fe9939a21c1130
 
 Package: mkbootimg
 Architecture: arm
@@ -34,11 +34,11 @@ Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
 Filename: dists/stable/main/binary-arm/mkbootimg_2019.04.13_arm.deb
-Size: 144848
-MD5Sum: 3e4140b06f529530790c9816455a05eb
-SHA1: 45c9455a6321184f7ebe2ba9ce24a326e5271bad
-SHA256: 89ef0aba5549231a414d790cfa5d249acbafdb3065ad631f334b7d790323fe0b
-SHA512: fdec57a5989fb4be08d6ab29624ff9f816218e9aa94df090916e89cc6744e98c7c6f1f3b5dacad19f9016b46e982ffdb07ae93fe2976651e7659f6853de2750d
+Size: 144792
+MD5Sum: b23520abe3f6d11117aae2c03d8dc2dd
+SHA1: c79ef1497021d9037524d11fb49e8b91deb20b90
+SHA256: 7d729b6deb9ab1be6bfa8569fb5b46bce74dd5372b15e8267a6768686f1c2344
+SHA512: e4cf5ff16b158b64365141fb611510eaed5f725f1eef86a46a173896bdf4318a3f05a1b5ec6fceba96b6f1bd130a6179ff105b2330e97765efd920e72db6e8ff
 
 Package: shc
 Architecture: arm
@@ -49,9 +49,9 @@ Version: 4.0.2
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-arm/shc_4.0.2_arm.deb
-Size: 191128
-MD5Sum: 4417d53bc73c0b1128078726efc6e18e
-SHA1: 4524f43729dd0c3bea547979be5d04bd925c72c5
-SHA256: 40d6b7a66c14034737ca9eb0e30cfd25f769b7bcd9c46a36b1cb1118430b56e7
-SHA512: 987a83d6ff661433ecf90ba71c1958569ed1d05256d14d1c68412a969fc932d51895b79c93945b4c10935490234788c6a6107fc5a86c75017ff7b9e80e43982d
+Size: 191184
+MD5Sum: f53c27d7f488f97a2d20b0ef2fcc8fd0
+SHA1: 742f8ffbde889ef53108dba5cc3ee9a630263f77
+SHA256: 3a7bce0e5053b76a360c6d8c1620291ca830b27c2820ce9c09dfb92c1ec122d2
+SHA512: 95d065b2c9822360cd310bcaf8213b93db7a12f7042a46d0bd0ffd0c92b050c407c03d027173dcad976431028d35494233ee07d9c5595d163f0f6354df877c7c
 
