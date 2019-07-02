@@ -20,11 +20,11 @@ Version: 8.1.0
 Homepage: https://github.com/rendiix/make_ext4fs
 Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
 Filename: dists/stable/main/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
-Size: 230420
-MD5Sum: 976e0c9b27c8c79d759ecc101a8a88eb
-SHA1: 7717fcf6290ef35920e7285bcfc92fe3ff303fb4
-SHA256: 8a1d63b22c5d154a1a9048b2b129373dcb9e064058abf0924a48b4743af1594f
-SHA512: 220d55ac30bcffde1111334733c13973a8c2044f1aaf60c2acb88adda7b0fd1709fd8729dd3384f08fbc3bf77b4477db229fac7f6064ae3d80e4f4b51f9bd3cf
+Size: 230432
+MD5Sum: 7b9bb27949a4b20e394c4165c41871ea
+SHA1: 7b1a118fb52cb9a3672fe2fcfb9a98e1d3103711
+SHA256: e2a94f46c760a52324bd22b06d733d1274aee00de10e254d4d8b78f23841dc79
+SHA512: 9441338156c66d85cdca39632f1b5de181fbc35e7442673bfe4086d6bffcf3f75dca62d2e148840a70bf51a9f6c069674ba5486e49bfe6b34239b38054a3541b
 
 Package: lolcat-c
 Architecture: aarch64
@@ -34,11 +34,11 @@ Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
 Filename: dists/stable/main/binary-aarch64/lolcat-c_1.0_aarch64.deb
-Size: 193292
-MD5Sum: fa893e6cf3205363d8f38d5fdedc1b0c
-SHA1: 62c3d2924fa1bf564ce05a793489aecccd1edcc9
-SHA256: 3123b921393586309631a7fc59077cedc1c7522d82bbe33f7c907eb0dd46099e
-SHA512: 1fe723d115c45d954741bbd2a8bc2462e7a9383232216f9823491802ed77f49964b28ea4f71e357b0911198d42300c6df0fd3c85070aec5f46a390ff8cc78bfd
+Size: 193168
+MD5Sum: 76bb4de8a3ad03e6b2e3834cb7394c9b
+SHA1: c2a8ef86cb257c94b23036b4dc5a23cfa146e535
+SHA256: 7d427cd03f204f12e10729ca578706f8887ad4be53d858ebd204bdeb221bc051
+SHA512: 0929ce02b05de61eb1ac1c841e3a65b9f14b210e345701d2893f463dc67a144b44132a53927fdb86a342282fe3f7b012d34b8c315183c62d486cb00be59ac675
 
 Package: mkbootimg
 Architecture: aarch64
@@ -48,11 +48,11 @@ Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
 Filename: dists/stable/main/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
-Size: 141172
-MD5Sum: ecaf250587bbd72d8e0708866a7ca108
-SHA1: 1401380fe116c8d324532895afe67e999cf95381
-SHA256: d00cc9fac3071eed6d8ae48c2025db4261c310abd2b16ae126a9a28a6036e9b4
-SHA512: 499ea9fc99ecfaabaf146de2b7230c55f7d023b6eb38db8fcc5c3b8ea885a01e5815c309fa130bca1aefc51d966041ba512151b553ac1b647562d13952196581
+Size: 141168
+MD5Sum: 6be8bda6ef2df5c5af9df0f4eb10ea14
+SHA1: 0868dfa14b058f514239cf0a1c4fc2fd3b15d7f4
+SHA256: 1a5442385d0428af9ba1576a5b0bf194554aef2f24ccac6081937eb2a62abfbe
+SHA512: 472d6f1145a47daccab917e9bdec02feab99cb202dcb4f0c828aee8336249e26a17eac8fe30474d01bb43cb64862556836e2f338eee1363c440a63560a70f755
 
 Package: shc
 Architecture: aarch64
@@ -63,9 +63,24 @@ Version: 4.0.2
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-aarch64/shc_4.0.2_aarch64.deb
-Size: 184572
-MD5Sum: 9a42e21db6f94b31cd2612a57e53ac25
-SHA1: 217388b5fcd3a288148c8f42bf3e3f74fafaa518
-SHA256: 826d9dd4ea34b97c5574cc90087f956546e4b43bb971b8e8c12a24ec95755c7d
-SHA512: 9dad0ec487734a8e5f18498e9e342d0d30c36881d07afbe2a05c60e405f310903ae2a50e474cf403a228e59dc030759a02a3056d8b8326be4747e8bcc403089a
+Size: 184544
+MD5Sum: 4ddeb026f883f2427082d072ab06bf92
+SHA1: a886c2474452ed3f9745aca248257f4232558ba1
+SHA256: 28169474a59a57212863c2b7243749c6218b3835869ee9822b74a73435f779a6
+SHA512: f2c29ed7c86ab82cfe0cd9e6f15ac6a29c93f89185bed7f3f7a088a5ee7ffde6fc6337fce4c5b80da3189a3554afb3d637dbe43f7722e615924c084c535b374f
+
+Package: shc
+Architecture: aarch64
+Installed-Size: 566
+Depends: clang
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 4.0.3
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/stable/main/binary-aarch64/shc_4.0.3_aarch64.deb
+Size: 185576
+MD5Sum: a0c8f46cb69da28dbe6084432b5b08a0
+SHA1: cb87ba702f3aa9006b2ddfaf5febc0fb90e6f1c5
+SHA256: 73cf768eaade346f444ef03af27a24f51c3c5806a8c9aa3def2ee5dc6884fefc
+SHA512: c13e76f35b4aac026b19a6f9d23e28c4d293dbde2a168b28e7a5329af264b99ecbc302b811b6bd437d6018ebac8aa3ee48d9c60d5a46585e8ffd39d3aab8d726
 

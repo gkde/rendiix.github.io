@@ -7,11 +7,11 @@ Version: 7.26.2
 Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
 Filename: dists/stable/main/binary-all/heroku_7.26.2_all.deb
-Size: 7035712
-MD5Sum: 963c55a0e117f33150ec31324c1b8a0a
-SHA1: a8ded61318ed5db97e3c82d055d81259c1b64dce
-SHA256: e53b720deaa02fa719690a069789028534427f79416170da6a4115b8c65d3545
-SHA512: e9cb05387decb533baca01da4329154c6d7d5b5907060991c4bc8a7bf9645f57a2f102e55467472109b2e027eb7ebbe046f5d2d85b0a64959f4000e28e0ae91c
+Size: 7042864
+MD5Sum: 5fceeb6c9bf0a1ac6276df7813485d37
+SHA1: 0f21691ac0149173816429d25f3af86d282bd0be
+SHA256: 2328a1a650d9a82c8b1d82d6a5794a48a670b4f59406c306e7aa0f1dedcf6099
+SHA512: 2fc7272499f373160e3c8b91a23857dfc8e85407eb78d9f43d26833c5715057f8c8aafa1d0e610e58c059aaf90a05e369cadd3e4e29dc3b18a8b73191736b932
 
 Package: img2sdat
 Architecture: all
@@ -22,11 +22,11 @@ Version: 1.7
 Homepage: https://github.com/xpirt/img2sdat
 Description: Convert sparse EXT4 image to sparse Android data image
 Filename: dists/stable/main/binary-all/img2sdat_1.7_all.deb
-Size: 34788
-MD5Sum: 5c0ad40e54e72126017c65bdfa9e279e
-SHA1: dbaeb0c15261bfb47b4739e43d1d3fd6c450d050
-SHA256: 4b495336bf6478dec6682e128d61616fc828380ddd98daa96d90a8538690ee78
-SHA512: 982c9e7b120bab8b4f7dd94159229401f7f4c8a15e32013af02612263934870f9d0bd8cdaee29e3703daa91badde7ae0a27fee8c34d27a007d3d847bf7361c1e
+Size: 34792
+MD5Sum: 343e579ddfaf1bc46330b3b7f36c5c3b
+SHA1: 987a6a823e2f5c4239383b6260867344b3a39878
+SHA256: 41b5544942a990869a60004d13bd7d6711b23122047cfead396c94a478870dac
+SHA512: e198cb86292251a66dc90fd3e827b86089cabfd9178a7e5dfaf1066eacd7c244c16c79d3f2c0713c1ff36d48975b8e2fd635679a2ef15d1a506d6b514154b488
 
 Package: sdat2img
 Architecture: all
@@ -37,11 +37,11 @@ Version: 1.2
 Homepage: https://github.com/xpirt/sdat2img
 Description: Convert sparse Android data image to filesystem ext4 image
 Filename: dists/stable/main/binary-all/sdat2img_1.2_all.deb
-Size: 3580
-MD5Sum: e6ed2243759b5ffbfd7cb9f72f50a311
-SHA1: 695321cb71dac80aa82227d644222b8f3ccde6d4
-SHA256: 254d2dc5dde75c0ca39c85da402b023ebf207dcb2ad64426d4ef733c495e859a
-SHA512: 6a8a4f34db40efa7cc4b08f82ab3595513175a75c96dfcdb8f06f568dae4a94eb7bbdc2b4d88d8582b221b3af4524fa63783ca6a688c69fe708b1bed3cac2e47
+Size: 3576
+MD5Sum: 212d03bbf879dec3c8eed77a9a3a2ec9
+SHA1: d288d9345e1c94deb3b92d8416dafd0721d1ce6f
+SHA256: 22282b9e86c71b2186d01ff1f7f92d7d1bc104bfc94fd8fc3952a5ec0045ce1f
+SHA512: d400d545bef8c5417db96cf163f65be3db9d3bd098d3cc12e8bb7d367a392b14cc0629054b6782b07aa2d33ed7707c17e5c333ad58687b9e916560d1948bf52b
 
 Package: translate-shell
 Architecture: all
@@ -52,9 +52,9 @@ Version: 0.9.6.10
 Homepage: https://github.com/soimort/translate-shell
 Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 Filename: dists/stable/main/binary-all/translate-shell_0.9.6.10_all.deb
-Size: 35088
-MD5Sum: 9c31e6983e51f2b2dadff81951e8a5b3
-SHA1: 5023fe3ab9f582b63c12f8bb9ed56dbcf0f4a21d
-SHA256: 2f34fb6b1e3c868d5ca4f8f5a6480d57189b388468d8284a0ec9b972793c6635
-SHA512: cf1286cc4b87acefca4fe8e9fbe0b83c6acc48a48b936398cb9a3e44c739aaaa72a52716b96d289ce0b53ffccf2433ed28ae5600eca11fe3542187df3af59951
+Size: 35112
+MD5Sum: 30f01efaa5d983d0dfa364e5d3c0b42e
+SHA1: c9c5e9aca387712e1a6411d7dea9410e793b418b
+SHA256: 28627f1cfabc670166448c94e156905a22f3afd170a19026706540d7ea949598
+SHA512: e7d9b8668dcf511c992c9918212c7b69584e8045de95018d10587b5f1e8584fc0dae962e51a57d9a2c255a52275ae33fb8ace975ef285606b5557df5a4f33bdd
 
