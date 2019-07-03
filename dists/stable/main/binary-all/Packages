@@ -36,11 +36,11 @@ Version: 1.7
 Homepage: https://github.com/xpirt/img2sdat
 Description: Convert sparse EXT4 image to sparse Android data image
 Filename: dists/stable/main/binary-all/img2sdat_1.7_all.deb
-Size: 34792
-MD5Sum: 343e579ddfaf1bc46330b3b7f36c5c3b
-SHA1: 987a6a823e2f5c4239383b6260867344b3a39878
-SHA256: 41b5544942a990869a60004d13bd7d6711b23122047cfead396c94a478870dac
-SHA512: e198cb86292251a66dc90fd3e827b86089cabfd9178a7e5dfaf1066eacd7c244c16c79d3f2c0713c1ff36d48975b8e2fd635679a2ef15d1a506d6b514154b488
+Size: 34812
+MD5Sum: 8211f9585147b4a0a5f8200ac5417746
+SHA1: e0a94d469e94cad4c891be96c7b8490742e98f2e
+SHA256: 055b399c6e905479d7b4723dcc77746a41ea9005cd9cc93a73646d9fc78d60a3
+SHA512: 133b42fc6140c445758427fccacea0d89186cddcf40f7d193406bbf1de1ae378e08036c376ac5e0888750875b44efd0a73e884740f0a5b65e01659fa583ba1b0
 
 Package: sdat2img
 Architecture: all

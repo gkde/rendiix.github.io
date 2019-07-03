@@ -55,3 +55,17 @@ SHA1: c2765a9863fdd190ea8583fefd3985ab12bc35ca
 SHA256: 093e0e57c626f3543b2c6db7d0ee90e59981ff825fdd690f8f4377463bc76ce5
 SHA512: e99f180053f77fdbec3fb69845b2c1da29ab86c959a4efb19ba8945fd447366c4a184e90bf9916991d6d45bf9e8d1ff442c7ee97a10e67b0241adbbde7b61a5a
 
+Package: vdexExtractor
+Architecture: arm
+Installed-Size: 4
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.5.2
+Homepage: https://github.com/anestisb/vdexExtractor
+Description: Tool to decompile and extract Android Dex bytecode from Vdex files
+Filename: dists/stable/main/binary-arm/vdexExtractor_0.5.2_arm.deb
+Size: 828
+MD5Sum: 1165f70f131604b68fd146a3d2beb93b
+SHA1: 72658404127d337467a71f88164ed0df4d9d4a05
+SHA256: 1f261c2e3956a604d4190d7163e787e7d04d694e08a10918bfdc76931d6e5fc6
+SHA512: 7cfeed149917bb76c7776dea3f093163a9224317219aca90240f2da3710586915d694e31091702f5d88237b8c4f6b782220152ceb30876c6b04f3dc4c6abd441
+
