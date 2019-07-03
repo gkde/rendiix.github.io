@@ -21,9 +21,26 @@ user@termux:~$ apt-get install wget
 user@termux:~$ wget https://rendiix.github.io/install-repo.sh
 user@termux:~$ bash install-repo.sh
 ``` 
-#### Installing package
+#### Example installing package
 ``` console
-user@termux:~$ apt-get install <package>
+user@termux:~$ apt-get install shc
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  shc
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 185 kB of archives.
+After this operation, 580 kB of additional disk space will be used.
+Get:1 https://rendiix.github.io stable/main aarch64 shc aarch64 4.0.3 [185 kB]
+Fetched 185 kB in 0s (193 kB/s)
+Selecting previously unselected package shc.
+(Reading database ... 47407 files and directories currently installed.)
+Preparing to unpack .../archives/shc_4.0.3_aarch64.deb ...
+Unpacking shc (4.0.3) ...
+Setting up shc (4.0.3) ...
+Processing triggers for man (1.14.5-1) ...
+user@termux:~$
 ```
 
 #### Table of contents
