@@ -1,3 +1,17 @@
+Package: bootsignature
+Architecture: all
+Installed-Size: 51
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.8
+Homepage: https://forum.xda-developers.com/android/software-hacking/signing-boot-images-android-verified-t3600606
+Description: Signing boot images for Android Verified Boot (AVB) [v8] by Chainfire
+Filename: dists/stable/main/binary-all/bootsignature_0.8_all.deb
+Size: 31156
+MD5Sum: 091cf31075d81fdd5fec9682b1fdf24e
+SHA1: 63c805b6ceaaad0a66d1bed3b98fd7c0d5f79de6
+SHA256: 83ef3f4856ab850a2e3c2fbe166b440cf87a1f39070a75750643ddca5911fd63
+SHA512: e94319869d1dd908e7a6a51b75208ef8bf6e0576dc50a45ae7f73df704d5c46f23ee208766b2f70333d9dad70dcf860d7f926dd7d35ae5c19d232fa4d5e3c27a
+
 Package: heroku
 Architecture: all
 Installed-Size: 58948

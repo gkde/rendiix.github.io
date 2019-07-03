@@ -1,3 +1,7 @@
+data/data/com.termux/files/usr/bin/bootsignature                                 bootsignature
+data/data/com.termux/files/usr/share/bootsignature/BootSignature_Android.jar     bootsignature
+data/data/com.termux/files/usr/share/bootsignature/supersu.pk8                   bootsignature
+data/data/com.termux/files/usr/share/bootsignature/supersu.x509.der              bootsignature
 data/data/com.termux/files/usr/bin/heroku                                        heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/CHANGELOG.md              heroku
 data/data/com.termux/files/usr/lib/node_modules/heroku/LICENSE                   heroku

@@ -49,9 +49,9 @@ Version: 4.0.3
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
 Filename: dists/stable/main/binary-arm/shc_4.0.3_arm.deb
-Size: 192168
-MD5Sum: d400bbbba77f119c3a6fbc53c665da83
-SHA1: 9a705c5f3f068d9c10828a92e39a349bac96c0e3
-SHA256: 59266eeebbd488c39b6b91c77c54e82076c8427ecd36ab8376d05baf4fdc5d2f
-SHA512: daf8c26ba26e8c10ad56f52fbaa8f702efcfc40fc00d0c5b465cb590614b09e52bfb5e71e531ab25cc8c8a069d183a2d0917d83da23257931833c39a75c8fb36
+Size: 192124
+MD5Sum: 4f0e8bbcf77ee7cb49ca3807b322e27d
+SHA1: c2765a9863fdd190ea8583fefd3985ab12bc35ca
+SHA256: 093e0e57c626f3543b2c6db7d0ee90e59981ff825fdd690f8f4377463bc76ce5
+SHA512: e99f180053f77fdbec3fb69845b2c1da29ab86c959a4efb19ba8945fd447366c4a184e90bf9916991d6d45bf9e8d1ff442c7ee97a10e67b0241adbbde7b61a5a
 

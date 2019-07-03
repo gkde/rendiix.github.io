@@ -34,3 +34,4 @@ user@termux:~$ bash install-repo.sh
 | [ext4fs-tools](https://github.com/rendiix/make_ext4fs) | 8.1.0 | Tools for generating android ext4 img. make_ext4fs img2simg simg2img. |
 | [translate-shell](https://github.com/soimort/translate-shell) | 0.9.6.10 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. |
 | [mkbootimg](https://github.com/osm0sis/mkbootimg) | 2019.04.13 | mkbootimg + unpackbootimg, forked and updated |
+| [bootsignature](https://forum.xda-developers.com/android/software-hacking/signing-boot-images-android-verified-t3600606) | 0.8 | Signing boot images for Android Verified Boot (AVB) [v8] by Chainfire |
