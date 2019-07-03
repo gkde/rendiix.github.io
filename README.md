@@ -15,13 +15,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rendiix.svg?color=green&label=follow&logo=twitter&style=social)](https://twitter.com/rendiix)
 
 #### Subscribe to this repository
-
 ``` console
 user@termux:~$ apt-get update && apt-get upgrade -y
 user@termux:~$ apt-get install wget
 user@termux:~$ wget https://rendiix.github.io/install-repo.sh
 user@termux:~$ bash install-repo.sh
 ``` 
+#### Installing package
+``` console
+user@termux:~$ apt-get install <package>
+```
 
 #### Table of contents
 | Package | Version | Descriptions |
