@@ -3,10 +3,10 @@ Hash: SHA256
 
 Codename: termux
 Version: 1
-Architectures: all arm aarch64
+Architectures: all aarch64 arm
 Description: android-tools repository
 Suite: android-tools
-Date: Fri, 05 Jul 2019 04:20:52 UTC
+Date: Fri, 05 Jul 2019 04:42:53 UTC
 MD5Sum:
  69e9ba9682361cd26c7fa9f30382cecc 3339 main/binary-arm/Packages
  f44688394f38b3dfb70dd056ad5202ba 1632 main/binary-arm/Packages.xz
@@ -61,12 +61,12 @@ SHA512:
  c94d8bac3b021a4aff1ffbdfefd81a7e9d15ce29b0434e87295cd8fb943bff81b6af39ec860cbd537c0b8706db1dfe615572fb7ce65b5d96d3c7335d0951b0cb 216938 main/Contents-aarch64
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAl0e0CgACgkQc5qL4q9N
-bnui5AgAs3LTc60h6n1M53Ppsl7v4EMk2yIvQhbc2tzOjbVnN6a6Y54MI0nZxI3o
-z942Yf+NtHokofzc3YSwPuoQfZ7eIINbSNYG0UPeAMtKB+Kv/I0UEB8eEIjySBlO
-pI857h3cDMgF9c5rtDCGvihH68+6CR555QxdMzNahvqBKqwyVNN7QSA+wCW0TUjT
-HxO9Yo4koICisLiN8iL77niEuQ10pGC7o8yQs4TE60AQbmoNjJzUy2b7RpBHtAsS
-g/kVkdNZtSdl7mH2n+harF1thw5qX78nSObmrIPfvPDdnTqLIc6+VrV4+OgH6IvJ
-Ld6EW7dg7ouATxZwrQZqH4RqyL+bcg==
-=1ADj
+iQEzBAEBCAAdFiEEMVKR0qs1OAXqmILHc5qL4q9NbnsFAl0e1VAACgkQc5qL4q9N
+bns8Gwf6A6PQpeWjLJgLHy8bAs2PcrzdO95XBNYgmYU5ka8Zuyc0pjMgoRVNcjwS
+lCYgxiQQF3Mlw9p05ogXjT505/X7DgZ9fHIO+h689FL1p328L1DX4x3SjWBivKe4
+ktjeDI6oce3iTGosEIFdU9yIe2IPcaoGATzIXr7CXz9rEAct+SYPYj49s1XrvqX/
+4HaYJgfWs7VtjMdYssVCuyqyteBhB1gPN0oX5W4K2xVtYvkir47dxVyGI2X8QxTQ
+CW2sE9nt5DP5eZuu8ew08yXPYVQdtD6M8JbKdD2gSxy5jFRdK/17nIifbLuzITA6
+OxftbmC2AKZw42McRjalIWXgcNjnqw==
+=dMg7
 -----END PGP SIGNATURE-----
