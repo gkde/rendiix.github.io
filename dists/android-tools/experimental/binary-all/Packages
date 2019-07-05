@@ -1,0 +1,74 @@
+Package: bootsignature
+Architecture: all
+Installed-Size: 51
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.8
+Homepage: https://forum.xda-developers.com/android/software-hacking/signing-boot-images-android-verified-t3600606
+Description: Signing boot images for Android Verified Boot (AVB) [v8] by Chainfire
+Filename: dists/android-tools/experimental/binary-all/bootsignature_0.8_all.deb
+Size: 31156
+MD5Sum: 091cf31075d81fdd5fec9682b1fdf24e
+SHA1: 63c805b6ceaaad0a66d1bed3b98fd7c0d5f79de6
+SHA256: 83ef3f4856ab850a2e3c2fbe166b440cf87a1f39070a75750643ddca5911fd63
+SHA512: e94319869d1dd908e7a6a51b75208ef8bf6e0576dc50a45ae7f73df704d5c46f23ee208766b2f70333d9dad70dcf860d7f926dd7d35ae5c19d232fa4d5e3c27a
+
+Package: heroku
+Architecture: all
+Installed-Size: 58948
+Depends: nodejs
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 7.26.2
+Homepage: https://devcenter.heroku.com/articles/heroku-cli
+Description: The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
+Filename: dists/android-tools/experimental/binary-all/heroku_7.26.2_all.deb
+Size: 7042864
+MD5Sum: 5fceeb6c9bf0a1ac6276df7813485d37
+SHA1: 0f21691ac0149173816429d25f3af86d282bd0be
+SHA256: 2328a1a650d9a82c8b1d82d6a5794a48a670b4f59406c306e7aa0f1dedcf6099
+SHA512: 2fc7272499f373160e3c8b91a23857dfc8e85407eb78d9f43d26833c5715057f8c8aafa1d0e610e58c059aaf90a05e369cadd3e4e29dc3b18a8b73191736b932
+
+Package: img2sdat
+Architecture: all
+Installed-Size: 150
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.7
+Homepage: https://github.com/xpirt/img2sdat
+Description: Convert sparse EXT4 image to sparse Android data image
+Filename: dists/android-tools/experimental/binary-all/img2sdat_1.7_all.deb
+Size: 34812
+MD5Sum: 8211f9585147b4a0a5f8200ac5417746
+SHA1: e0a94d469e94cad4c891be96c7b8490742e98f2e
+SHA256: 055b399c6e905479d7b4723dcc77746a41ea9005cd9cc93a73646d9fc78d60a3
+SHA512: 133b42fc6140c445758427fccacea0d89186cddcf40f7d193406bbf1de1ae378e08036c376ac5e0888750875b44efd0a73e884740f0a5b65e01659fa583ba1b0
+
+Package: sdat2img
+Architecture: all
+Installed-Size: 27
+Depends: python
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.2
+Homepage: https://github.com/xpirt/sdat2img
+Description: Convert sparse Android data image to filesystem ext4 image
+Filename: dists/android-tools/experimental/binary-all/sdat2img_1.2_all.deb
+Size: 3576
+MD5Sum: 212d03bbf879dec3c8eed77a9a3a2ec9
+SHA1: d288d9345e1c94deb3b92d8416dafd0721d1ce6f
+SHA256: 22282b9e86c71b2186d01ff1f7f92d7d1bc104bfc94fd8fc3952a5ec0045ce1f
+SHA512: d400d545bef8c5417db96cf163f65be3db9d3bd098d3cc12e8bb7d367a392b14cc0629054b6782b07aa2d33ed7707c17e5c333ad58687b9e916560d1948bf52b
+
+Package: translate-shell
+Architecture: all
+Installed-Size: 226
+Depends: curl, fribidi, gawk, mpv, less, rlwrap, hunspell
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.9.6.10
+Homepage: https://github.com/soimort/translate-shell
+Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+Filename: dists/android-tools/experimental/binary-all/translate-shell_0.9.6.10_all.deb
+Size: 35112
+MD5Sum: 30f01efaa5d983d0dfa364e5d3c0b42e
+SHA1: c9c5e9aca387712e1a6411d7dea9410e793b418b
+SHA256: 28627f1cfabc670166448c94e156905a22f3afd170a19026706540d7ea949598
+SHA512: e7d9b8668dcf511c992c9918212c7b69584e8045de95018d10587b5f1e8584fc0dae962e51a57d9a2c255a52275ae33fb8ace975ef285606b5557df5a4f33bdd
+
