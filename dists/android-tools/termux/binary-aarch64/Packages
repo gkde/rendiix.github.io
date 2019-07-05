@@ -5,7 +5,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 17-b
 Homepage: https://github.com/Lzhiyong/termux-ndk
 Description: arm-linux-androideabi croos toolchains, including sysroot Android api level 28
-Filename: dists/stable/android-tools/binary-aarch64/arm-cross-toolchain_17-b_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/arm-cross-toolchain_17-b_aarch64.deb
 Size: 40959500
 MD5Sum: 15e16fade4cf050863a9789f036486de
 SHA1: 4e1a96d20e064bc3d4871c34c26d4f8ad707f65c
@@ -19,7 +19,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 8.1.0
 Homepage: https://github.com/rendiix/make_ext4fs
 Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
-Filename: dists/stable/android-tools/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
 Size: 230432
 MD5Sum: 7b9bb27949a4b20e394c4165c41871ea
 SHA1: 7b1a118fb52cb9a3672fe2fcfb9a98e1d3103711
@@ -33,7 +33,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 1.0
 Homepage: https://github.com/jaseg/lolcat
 Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
-Filename: dists/stable/android-tools/binary-aarch64/lolcat-c_1.0_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/lolcat-c_1.0_aarch64.deb
 Size: 193168
 MD5Sum: 76bb4de8a3ad03e6b2e3834cb7394c9b
 SHA1: c2a8ef86cb257c94b23036b4dc5a23cfa146e535
@@ -47,7 +47,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 2019.04.13
 Homepage: https://github.com/osm0sis/mkbootimg
 Description: mkbootimg + unpackbootimg, forked and updated
-Filename: dists/stable/android-tools/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
 Size: 141168
 MD5Sum: 6be8bda6ef2df5c5af9df0f4eb10ea14
 SHA1: 0868dfa14b058f514239cf0a1c4fc2fd3b15d7f4
@@ -62,7 +62,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 4.0.3
 Homepage: https://github.com/neurobin/shc
 Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
-Filename: dists/stable/android-tools/binary-aarch64/shc_4.0.3_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/shc_4.0.3_aarch64.deb
 Size: 185472
 MD5Sum: 3bb43f8492eabb9214b976f393594aa3
 SHA1: 6ddf0c861559c140da8eb818a67e53db7f4ca98f
@@ -76,7 +76,7 @@ Maintainer: Rendiix <vanzdobz@gmail.com>
 Version: 0.5.2
 Homepage: https://github.com/anestisb/vdexExtractor
 Description: Tool to decompile and extract Android Dex bytecode from Vdex files
-Filename: dists/stable/android-tools/binary-aarch64/vdexExtractor_0.5.2_aarch64.deb
+Filename: dists/android-tools/termux/binary-aarch64/vdexExtractor_0.5.2_aarch64.deb
 Size: 828
 MD5Sum: 5d9729804d91b30043122332b26bf7a4
 SHA1: 3fbd5905bed7c36482e73ee1844004f6366cc460
