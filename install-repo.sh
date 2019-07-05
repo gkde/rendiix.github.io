@@ -1,8 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# File       : /data/data/com.termux/files/home/rendiix.github.io/install-repo.sh
+# File       : install-repo.sh
 # Author     : rendiix <vanzdobz@gmail.com>
 # Create date:  5-Jul-2019 16:11
-#!/data/data/com.termux/files/usr/bin/sh
 # Get some needed tools. coreutils for mkdir command, gnugp for the signing key, and apt-transport-https to actually connect to the repo
 apt-get update
 apt-get  --assume-yes upgrade 
