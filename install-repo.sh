@@ -7,7 +7,7 @@ apt-get  --assume-yes install coreutils gnupg wget
 [ ! -d $PREFIX/etc/apt/sources.list.d ] && mkdir $PREFIX/etc/apt/sources.list.d
 # Write the needed source file
 if [ ! -f "$PREFIX/etc/apt/sources.list.d/rendiix.list" ]; then
-echo "deb https://rendiix.github.io/ stable main" > $PREFIX/etc/apt/sources.list.d/rendiix.list
+echo -e "deb https://rendiix.github.io/ stable android-tools" > $PREFIX/etc/apt/sources.list.d/rendiix.list
 wget https://rendiix.github.io/rendiix.gpg
 apt-key add rendiix.gpg
 apt update
