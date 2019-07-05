@@ -1,0 +1,85 @@
+Package: arm-cross-toolchain
+Architecture: aarch64
+Installed-Size: 225616
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 17-b
+Homepage: https://github.com/Lzhiyong/termux-ndk
+Description: arm-linux-androideabi croos toolchains, including sysroot Android api level 28
+Filename: dists/android/main/binary-aarch64/arm-cross-toolchain_17-b_aarch64.deb
+Size: 40959500
+MD5Sum: 15e16fade4cf050863a9789f036486de
+SHA1: 4e1a96d20e064bc3d4871c34c26d4f8ad707f65c
+SHA256: b21492fc99188321c8a8731a30411e976f24d276f271490ddaad05e5084f45b1
+SHA512: 44ef8efe4e1caa540f5ad1cdb9abaf1ea11faf7c575a7382f28213139471904181a493f406f80d6a28677d03be66be312d35f8c03802c0ec171aa25adba06b7c
+
+Package: ext4fs-tools
+Architecture: aarch64
+Installed-Size: 1258
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 8.1.0
+Homepage: https://github.com/rendiix/make_ext4fs
+Description: Tools for generating android ext4 img. make_ext4fs img2simg simg2img.
+Filename: dists/android/main/binary-aarch64/ext4fs-tools_8.1.0_aarch64.deb
+Size: 230432
+MD5Sum: 7b9bb27949a4b20e394c4165c41871ea
+SHA1: 7b1a118fb52cb9a3672fe2fcfb9a98e1d3103711
+SHA256: e2a94f46c760a52324bd22b06d733d1274aee00de10e254d4d8b78f23841dc79
+SHA512: 9441338156c66d85cdca39632f1b5de181fbc35e7442673bfe4086d6bffcf3f75dca62d2e148840a70bf51a9f6c069674ba5486e49bfe6b34239b38054a3541b
+
+Package: lolcat-c
+Architecture: aarch64
+Installed-Size: 939
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 1.0
+Homepage: https://github.com/jaseg/lolcat
+Description: A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
+Filename: dists/android/main/binary-aarch64/lolcat-c_1.0_aarch64.deb
+Size: 193168
+MD5Sum: 76bb4de8a3ad03e6b2e3834cb7394c9b
+SHA1: c2a8ef86cb257c94b23036b4dc5a23cfa146e535
+SHA256: 7d427cd03f204f12e10729ca578706f8887ad4be53d858ebd204bdeb221bc051
+SHA512: 0929ce02b05de61eb1ac1c841e3a65b9f14b210e345701d2893f463dc67a144b44132a53927fdb86a342282fe3f7b012d34b8c315183c62d486cb00be59ac675
+
+Package: mkbootimg
+Architecture: aarch64
+Installed-Size: 671
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 2019.04.13
+Homepage: https://github.com/osm0sis/mkbootimg
+Description: mkbootimg + unpackbootimg, forked and updated
+Filename: dists/android/main/binary-aarch64/mkbootimg_2019.04.13_aarch64.deb
+Size: 141168
+MD5Sum: 6be8bda6ef2df5c5af9df0f4eb10ea14
+SHA1: 0868dfa14b058f514239cf0a1c4fc2fd3b15d7f4
+SHA256: 1a5442385d0428af9ba1576a5b0bf194554aef2f24ccac6081937eb2a62abfbe
+SHA512: 472d6f1145a47daccab917e9bdec02feab99cb202dcb4f0c828aee8336249e26a17eac8fe30474d01bb43cb64862556836e2f338eee1363c440a63560a70f755
+
+Package: shc
+Architecture: aarch64
+Installed-Size: 566
+Depends: clang
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 4.0.3
+Homepage: https://github.com/neurobin/shc
+Description: A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. The generated source code is then compiled and linked to produce a stripped binary executable.
+Filename: dists/android/main/binary-aarch64/shc_4.0.3_aarch64.deb
+Size: 185472
+MD5Sum: 3bb43f8492eabb9214b976f393594aa3
+SHA1: 6ddf0c861559c140da8eb818a67e53db7f4ca98f
+SHA256: 8d92fee3b6bd729bad630cebf7906cd5e63d6ba9cdd16e12525aa91bbbfb769e
+SHA512: d4a8cb4072b57f196c774e0337c9c2f5109167ac27b3437921699024dcf9026d9d84da0d6ec659c588f7ab9e1e25580034a8b37173850baa66b39ccdc366df85
+
+Package: vdexExtractor
+Architecture: aarch64
+Installed-Size: 4
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 0.5.2
+Homepage: https://github.com/anestisb/vdexExtractor
+Description: Tool to decompile and extract Android Dex bytecode from Vdex files
+Filename: dists/android/main/binary-aarch64/vdexExtractor_0.5.2_aarch64.deb
+Size: 828
+MD5Sum: 5d9729804d91b30043122332b26bf7a4
+SHA1: 3fbd5905bed7c36482e73ee1844004f6366cc460
+SHA256: 3989e1fbe02e9f68e044bb64e5712ac639b3a421aa1a759250c8c1be0917e644
+SHA512: bfea371e0b3b24bf9686229db562c3a9801281fd50a8339e672215a7072e7d6e898d37e7d3edd5b836b5390ef5fa4bbeaa07ecea3cf74c1c7bfbca015532f201
+
